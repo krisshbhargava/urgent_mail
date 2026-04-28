@@ -1,0 +1,2001 @@
+id,short_desc,severity
+134643,[Model Sync] Previously selected model should be remembered,normal
+209152,[1.5][compiler] different captures for the the same wildcard,normal
+225602,[Sync view] 'Synchronize' view has a misleading message,minor
+92546,Ant content type describer activating ant core,normal
+215805,"[api tooling] incorrect ""type has been removed"" errors",normal
+259308,can not upgrade from CDT 5.0.2 to CDT 6.0. Broken dependencies,normal
+130052,[Dialogs] Make tray dialog sash fixed size,minor
+108789,naming conventions: suggest plural of element type for Collection subtypes,enhancement
+60141,AddUnimplemented constructors adds a new line for constructor with no parameters [code manipulation],normal
+171425,[launching] New fields for launch delegates,trivial
+48276,NullPointerException in CDT parser,normal
+290652,unable to load clase org.maven.ide.eclipse.jdt.internal.JDTComiplationParticipant,major
+108735,[Help][Context] Help view should parse mnemonics from menu labels,normal
+20115,"""Source | Format"" scrolls to the top of the file",major
+72818,[Search] Selection Search for Union does not work,normal
+170973,[Program] Error when opening word and excel documents,normal
+261296,FIFO file in project directory causes build / search to hang,normal
+70697,[JUnit] JUnit launcher does not run classes that do not have test* methods [JUnit],normal
+31528,InternalError creating patch,normal
+36611,Tracker resize events are not sent correctly,minor
+70990,Uninstall old plugin,enhancement
+11612,Agressive clearing of instruction pointer,normal
+328524,[nls tooling] Properties File editor could escape \ on paste,normal
+3443,Unused argument/variable warnings shown twice (1GL4OW7),normal
+49307,blankline in .ssh/known_hosts caused accessing CVS to hangs,normal
+38478,getters/setters: no warning of duplicate methods,normal
+235021,"[formatter][preferences] ""Use tabs only for leading indentations"" confusing",minor
+66774,Cold-folding ellipses appear at the end of every import statement,normal
+34825,Ant Task tree does not refresh after edit and save.,minor
+37746,Add compare with->menu in package explorer,enhancement
+194627,[process] Stopping a debugg session causes all user processes to terminate,major
+267138,CCombo popup doesn't scroll with CCombo,major
+220233,Visual 2005 error parser seems to not work.,normal
+56705,Details pane problem (build M8),normal
+47583,CVS commit should run in background,enhancement
+18795,Extension point for Java decompiler,enhancement
+50343,"Java doc does not appear, no source attached",major
+184605,InvalidThreadAccess in Manifest editor when reacting to model changes,normal
+31173,[Linked Resources] Specifying file to link could prime the filename to be created,enhancement
+8746,Threads showing as suspended when not -- multithreaded app,normal
+27279,[Keybindings] accelerators don't work on all platforms,critical
+23290,Default JFaceResource fonts need to be updated,normal
+39849,Unreachable code not detected,normal
+224279,[concurrency] Query objects in debug view model should call RequestMonitor.done() even when canceled.,minor
+214724,[Commands] Conflict for 'org.eclipse.team.ui.synchronizeAll' and 'synchronizeLast',normal
+213700,Eclipse Formatter needs to provide a mechanism to IGNORE line wrapping,enhancement
+236341,NPE in AnnotationPainter when using SourceView with no TextEditor,normal
+241002,"Support ""Smart Caret Positioning"" in fields with IDs and Java identifiers",enhancement
+195633,CVS team information and CVS directories disappear,normal
+296018,Allow activating cell editors using the keyboard in variables views.,enhancement
+17965,Dav: Poor error handling on folder creation,normal
+48177,Code formatter preference page: Line wrapping policy should propose No wrapping,normal
+253086,no error on trailing comma in multi valued element in annotation,normal
+200573,"[KeyBindings] Keybinding for ""Show History"" doesn't work",normal
+232197,"Eclipse slows down, itself and system",normal
+75828,Recursively refresh tags in the event of missing or undefined refresh files,normal
+7463,Search for implementors fails,normal
+93252,problem with displaying kannada text,major
+40138,Incorrect dialog titles for adding / editing tasks / types,normal
+22651,[Wizards] Font default values for Banner Text/Header Text are swapped,major
+17821,[Perspectives] Customize Perspective should give visual indication,enhancement
+25508,JavaDOC code assist doesn't recognize imports when commenting class,major
+296819,"Remove use of the word ""profile"" to mean baseline",trivial
+35125,"[RC2] ""New->Java->JUnit Test Case"" throws exception",blocker
+7723,Eclipse doesn't fire a Focus Lost event at closing,normal
+39771,[Live Sync View] Prompt to overwrite should show compare decorator,enhancement
+69984,[code assist][preference] Info dialog when using code assist in an editor of a Java file not in a Java project,minor
+76118,C++ working set members do not persist after they are closed,normal
+201381,[Undo] Disable undo for resource opperations,enhancement
+76523,[Perspectives] [RCP] Provide API to re-layout a perspective,normal
+79715,Allow federated search,enhancement
+120382,False access restriction warnings,normal
+229812,[number format detail] Number format detail pane calls a service on a backgroun thread.,major
+120269,[refactoring] Preview filter combo: selecting an item does not update preview,normal
+70207,Compare to Head shows Ignored Resources,normal
+61326,Import features from binary does not put the feature in the workspace folder,normal
+42403,"Position of ""synchronized"" and ""override/implement"" icons [render]",enhancement
+237296,Code Template Editor causes Loop and GUI Freeze on W2K,normal
+72736,[Refactoring] Rename does not check if the scanner is properly configured,normal
+124973,Problem with Browser removeProgressListener,normal
+50008,Hide Application Doesn't work,minor
+95533,Does not highlight currentLine while debugging,critical
+158526,[search] NPE in JavaSearchScope.addEnclosingProjectOrJar(..),normal
+190444,ANT: Using Import function to import a macro breaks some ant editor functionality,normal
+22233,[Import/Export] Bad message in Import dialog,normal
+26669,[Editor Mgmt] Add action for maximize/restore current window functionality,enhancement
+52003,[Preferences] Main Workbench Pref Page - Keep/next ... no mnemonic,normal
+11069,Prompting for saving a dirty shared editor inconsistent,normal
+139697,[JUnit] the number of history items is not correct,trivial
+82926,"[EditorMgmt] Ability to ""Pin Editor"" in ""Switch to Editor"" dialog",enhancement
+233187,[javadoc] partially qualified inner types  should be warned,minor
+85352,Self-hosted workspace not picking up product information,major
+158139,Show inherited members in Outline view,enhancement
+168738,ProgressBar does not respect user-defined foreground colors.,major
+103810,[WorkbenchParts] Sites should release their part after part is disposed,normal
+41403,Alt Key Does Not Work,major
+189243,Display the element values of STL containers - at debug time,enhancement
+52106,[Wizards] Project creation wizard; existing project; should disable next,enhancement
+119109,KeyEvent.doit does not work for a CCombo,normal
+20283,Emacs keybindings for content assist and parameter info don't work,critical
+91153,[Contributions] Add Actionset only to specified Perspective,enhancement
+105942,[1.5][search] search for method declaration does not find overriding with non-matching type variable name,normal
+62681,Painting cheese in Forms package,normal
+12279,Java warning and error markers obscure each other,normal
+51988,[Accessibility] JAWS does not read Eclipse custom tooltips,normal
+137330,[Commands] remove experimental keys preference page for 3.2,normal
+30830,StackOverflow on HCR from VariablesView,normal
+15926,Problems with default JRE and running JRE do not match,normal
+63600,"Wizard based implementation of equals(), hashcode() and toString() methods in any Java Class.",enhancement
+198979,copy address context menu enhancement,enhancement
+29592,Add Methods/Layout Menu [render],enhancement
+25796,Update to root 1.0.1 does not diable efix,critical
+63521,"Missing configuration option: tab width=8, indent width=4",minor
+42899,Search: cannot find beyond function body,major
+51022,Problem with Long,normal
+178753,Cannot do anything in Run/Debug>Launching>Default Launcher preference page,normal
+208387,Error message at build startup,normal
+123111,"Request to create test.xml for each of osgi, runtime and resources test plug-ins",normal
+11021,add method feature,enhancement
+61248,[Workbench] Exceptions on startup in the presentation code will result in a phantom window,major
+91196,cvs pserver to local gets connection reset by peer,normal
+23666,copy and pasting types [ccp],enhancement
+273349,Generated SimpleMail app shows duplicate features,normal
+17244,Search Menu - &File and Re&ferences mnemonics clash,minor
+208433,Launch from Run/Debug settings dialog,enhancement
+287028,ErrorDialog with null as Shell crashes,normal
+59339,[Workbench] NPE on shutdown while saving state,critical
+48809,[browser] breaking change - rename LocationEvent.cancel to LocationEvent.doit and reverse boolean meaning,normal
+146040,"[Workbench] Incomplete schema doc for filesystemSupport, markerImageProviders, markerSupport",normal
+153242,[misc] Must correctly deprecate org.eclipse.jdt.ui.javadocCompletionProcessor,normal
+127641,[build path] new java project wizard: help issues,normal
+274772,lrparser.xlc.ui.preferences they are everywhere,critical
+44170,ITypeHierarchy#getImplementingClasses bug?,normal
+77548,[Encodings] Cannot open the project's preferences page when running on a 1.5 VM,major
+50018,update class path  should prompt to save the plugin.xml,minor
+38427,[breakpoints] class breakpoints - useful new feature,enhancement
+308753,[psf] new feature :: be able to spec a custom location to place the download project,enhancement
+214522,[Viewers] ComboViewer#insert() silently modifies the selected value,major
+37761,[content assist][key binding] Up/down key binding should also be honored in code assist,normal
+28300,[Team Core] Team may not need delta listener,normal
+9701,NS4: Status line should show topic label,normal
+100218,unecessary cast in case of boxing,normal
+48089,[ActivityMgMt] Folders created on an IPageLayout should only be visible if they contain non-placeholder views,normal
+99981,[WorkbenchParts] Toolbar buttons overlap view subtitle when SWT XP manifest used,normal
+45714,[CVS UI] Add to CVS Version Control details are not sorted,normal
+122914,[formatter] Formating java file breaks NLS (//$NON-NLS-1$) comments,normal
+58220,Unable to remove all error parsers,normal
+277307,3.5RC1 crashes during build with jdk1.6,major
+28511,java build path: javadoc location specyfying has incostistent explanation,normal
+71262,Combo boxes ignoring visible item count,normal
+61224,Parsing Exception during startup,normal
+202675,Help context with empty description causes NPE,normal
+240397,DVT34: broken link in documentation,minor
+312459,Loading browser instance delayed after bug fix 295483,normal
+43263,cannot programmatically retrieve all text from console,normal
+128122,Poor error messages which are not logged,normal
+243809,Incremental build problem with fix for bug 229697,normal
+69335,[UIForms] Bug/typo in TableWrapLayout,normal
+65987,"[Intro] Welcome testing - ""Action not implemented"".",major
+33167,[DND] Poor support for drag and drop between Eclipse and Linux,normal
+59378,"[Workbench] 3.0 plug-ins have percents, missing, or incorrect names and version info",normal
+18896,Need protection in launch configurations,normal
+94085,Thread receive warning with valid usage!,trivial
+157091,should adopt ICU Collator and use new APIs on StructuredViewer,normal
+125652,[CommonNavigator] Default filter activations causes failure in OpenTest,normal
+93105,Remove unnecessary APIs on BindingKey,normal
+209196,Unused locals in compiler logs for N20071108-0010,normal
+104225,[CellEditors] Using Viewer for ComboBoxCellEditor,enhancement
+23663,[ExternalTools] Color in Log Console incorrect when showing output of selected element,normal
+172586,Need a way to specify user defined platform properties,normal
+5313,Message not clear and workspace does not start up if plug-in does not have version number,normal
+225440,"MenuDetect events sent with (0, 0) coordinates",normal
+27154,[Tasks] task list filter - 'limit visible items to' seems to make no sense,normal
+22976,DCR - warning for unused declarations of thrown exceptions,enhancement
+82828,Table's SWT.FULL_SELECTION broken for empty table items,major
+84088,[registry] JVM terminated. Exit code=13 after update,blocker
+38145,templates: empty lines are ignored,minor
+178495,[Browser] Control-N from Browser causes multiple errors.,critical
+5190,GC.stringExtent() gives incorrect data for italic fonts,normal
+328397,Reduce API tools footprint in releng scenarios,normal
+198092,CDT 4.0 plug-ins fail to Import as source project,normal
+298615,org.eclipse.cdt.utils.CygPath.getFileName() incorrect with spaces in filename,normal
+60349,[implementation] reduce warnings due to core.runtime deprecations,normal
+75821,[implementation] Linked mode IExitPolicy: Should first leave mode then apply character,normal
+21,"[CVS Watch/Edit] ""cvs release"" a project's local workspace (1GBESCM)",normal
+182842,[patch] Editor pref panels out of date,normal
+94556,Move instance method active for classes not on build path,normal
+67813,TableColumn.setAlignment() does not apply to column zero,normal
+212312,Invisible Shell active after setting invisible in Activate listener,normal
+133190,Namespace support for the Ant extension points,normal
+75503,[VM] crash in Scanner.getCurrentIdentifierSource(),normal
+13315,Cannot close the run-time workbench,normal
+18199,One-click license page,normal
+70139,tests,normal
+299651,PlatformURLResourceConnection cannot handle special character % in url,normal
+279286,Incremental compiler takes too long to react on Cancel,normal
+62628,Rename refactoring does not take mutiple source directories into account when renaming members with default (package) access,normal
+304537,Error in comparator message,normal
+223020,ClassCastException when accessing type of typedef,normal
+106384,TVT 3.1 - TCT 478 - String truncation in editor template preferences,major
+271001,[Connection] cvs co fails in Eclipse but succeeds on command line,trivial
+302562,Rootfiles created in feature customBuildCallbacks not copied to product root directory,normal
+308128,[Help] In ScopePreferenceDialog checkbox Include results about disabled capabilities does nothing,normal
+280762,[readme] Add warning about using Windows extraction utility,enhancement
+78497,Make CVS log in console link to editor and history,enhancement
+230955,[Viewers] Keyboard navigation and Scrolling Column into view,enhancement
+9071,Error Objects created in wrong place for code after an #endif,normal
+315214,Breakpoint with old JRE path behaves strangely,normal
+182001,Whacky behaviour in the update manager with WPF drop of Eclipse on Windows Vista,major
+47458,Manual updates are not detected at startup,normal
+114454,[CellEditors] ColorCellEditor should put the color dialog in a better position,enhancement
+54645,Organize Imports: Blank Line between imports of different packages [code manipulation],normal
+95196,[api] experimental API in org.eclipse.tomcat,normal
+34389,[DOC] Can't see modules under branches,normal
+135575,[content type] Allow multiple DTDs for one content type in XMLRootElementContentDescriber,enhancement
+161638,[Repo View] Strange errors when permissions don't allow content fetch,normal
+17466,Prompt for targets option,enhancement
+292068,[target] Target environment settings not persisted on Mac OS,normal
+61463,NPE while doing text search and replace,normal
+156132,No timeout when searching for updates of  currently installed features,normal
+220404,[Contributions] Update action extension points to use identifier,normal
+26421,List hangs on GTK,normal
+40442,Abstract class fails to invoke interface-defined method in 1.4 compliance mode.,normal
+124018,[Workbench][Commands] Shift key makes part switchers sticky,normal
+34524,RC2: JVM crashes when attempting to launch file browser,critical
+21481,Resource Patcher dialog has no optimal layout,enhancement
+262624,Undo block selection paste only removes one line,normal
+36848,Support double-click in variable selection dialog,enhancement
+107670,[Help] Provide attribute for doc plugin author to indicate navigation entry should open outside of webapp,enhancement
+60365,hierarchy view shows some interfaces as classes [type hierarchy],normal
+110799,[1.5] Raw bindings miss type arguments but sometimes have type parameters,normal
+88082,ASTParser#createASTs(..) does not use the given progress monitor,normal
+60097,Testing CDT component owners,normal
+207569,[Viewers] Different order of creating a table cursor results in not showing an inline editor,normal
+131469,"[CommonNavigator][Java] ""Package Presentation"" action sometimes has wrong mode",normal
+160827,[Browser] javascript not correctly initialized/loaded when navigating by clicking,normal
+69538,NPE Unhandled event loop exception,normal
+60277,[RCP] [intro] RCP workbench does not open intro,normal
+271362,NPE opening site.xml editor,normal
+8627,method arguments to class in jar,enhancement
+90324,[Patch] Applying patch causes exception in M5a,normal
+212526,[KeyBindings] 'emacs' keyword should link to keys preference page,trivial
+67577,Method/Class profiling.,enhancement
+74737,[preferences] Displayed tab width preference misleading,minor
+127504,[Import/Export] Import Existing Projects from zip is confusing when projects are already in workspace,normal
+42201,ConcurrentModificationException calculating decorator,normal
+209052,[number format detail] Duplicate information can appear in the DSF Detail Pane,normal
+42052,[preferences] Need public access to Java Editor settings,enhancement
+187416,TVT33:TCT238: Truncation error in Language Mappings file properties,major
+325277,"[disassembly] add IInstruction#getSize() to fill single-instruction gaps, allow large pseudo-mnemonics",normal
+143256,eclipse 3.2RC5 hangs on startup,normal
+123535,Add source code statistics support,enhancement
+59476,[ViewMgmt] [RCP] Should have an app-level preference for whether detached views are supported,normal
+87408,Webdav import did not import everything,normal
+343861,Project should not be required to perform debugging,normal
+333360,[DOM] eclipse fails to create array binding in this situation,major
+147325,[Dialogs] Need to set context help IDs,enhancement
+143160,Hangs during plugin export,critical
+218712,adding plug-in from CVS broke workspace profile,normal
+191322,[javadoc] @see or @link reference to method without signature fails to resolve to base class method,normal
+80626,[1.5] enum types cannot define a compareTo(Object o) method,normal
+94754,[1.5][compiler] Ambiguous method call is not detected,major
+7481,JME in compare,normal
+57785,"New Search: once enabled, cannot be disabled",normal
+19606,Scoped exception breakpoints disappear randomly,normal
+96770,Code completion does not work in enum constants,normal
+14267,Non-reproducible crash on 20020412,major
+75962,[Help] Beef up help preferences.,normal
+88916,Tabs and spaces don't line up,normal
+310668,"[LinkedResources] Bad tab order in ""New > Folder"" wizard",minor
+43333,Rework build options tab to avoid use of working-set refresh variable,normal
+39318,Live Synch view not used when sharing project,normal
+14341,Cannot search for German words from the browser,normal
+80224,"provide quickfix or other help for ""The type ... cannot be resolved. It is indirectly referenced from required .class files"" [quick fix]",enhancement
+73661,[Preferences] Need to have field editors use OSGI preferences,enhancement
+65641,Rapid pasting causes improper indent of pasted test,normal
+4014,"Too many names for ""hierarchy"" view (1GFXP2K)",minor
+11265,Need replacement source locator API,normal
+46829,[RCP] zip import wizard doen't honor java selection,normal
+287055,Multiline tooltip for method arguments,normal
+141395,Selected item lost in Tree,major
+306680,[build path] UI to configure referenced JARs in Properties > Java Build Path > Libraries,enhancement
+91854,Performance issue with WorkbenchIntroManager.showIntro,normal
+18887,'Debug As' drop down menu missing 'Remote Java Application',normal
+74263,[EditorMgmt] Allow customized matching of editor inputs,enhancement
+31948,AntEditor reconciling has broken resolution of external entities,normal
+58284,"Call to <concat> requires fixlastline attribute setting to ""yes""",normal
+264098,[IDE] Make org.eclipse.ui.navigator.resources a friend of org.eclipse.ui.ide,normal
+218137,[ErrorHandling]  Errors for multiple jobs are displayed in many dialogs,normal
+36275,[java launching] Navigate from launch config to application class,normal
+34860,JRE container performance problem,normal
+76496,"[Dialogs] ""Open Resource"" folder sorting gets reversed",normal
+36459,Ant doesn't handle linked files,normal
+8231,After using fast views entire workbench is unresponsive,major
+37111,classpath file - java source attachment shouldn't hardcode project name,normal
+55170,[Colors/Fonts] Changing a font in the Colors and Fonts preference page causes all views and editors to appear active,normal
+250928,Debug serversocket nulled out,normal
+49800,AbstractLaunchConfigurationTab makes displaying correct error message tricky,normal
+80439,[Progress] No way to freeze ProgressMonitor animation from a Job,enhancement
+135574,ClassCastException in LocalHistoryPage.inputSet,normal
+66119,generalize type: interfaces handled incorectly [refactoring],minor
+3182,CodeCompletion - wrong completion (1FTZBMZ),normal
+94573,Stepping over an <ant> task causes hang or NullPointerException in some build files,normal
+74455,Race condition with Cygwin CVS client and Eclipse's CVS w/ automatic refresh,normal
+89137,"[JFace] - API Review - ""temporary"" API in AbstractTreeViewer",normal
+182287,compare editors open separate Find/Replace dialogs and don't follow focus,normal
+176762,VM slows down due to method entry breakpoint being misplaced,major
+103636,JDT compiler produces invalid XML,normal
+37196,Output differences from command line Ant,normal
+18856,Lose indication of error in Java Breakpoint Properties dialog,normal
+29433,[EditorMgmt] Would like a way to have project close also minimize all related editors,enhancement
+159538,[Trim] 6 test failures in the test suite with examples loaded,normal
+261783,WatchpointTrigger events don't show the watchpoint's expression,enhancement
+136408,Setting classpath on UI thread in TargetPlatformPreferencePage,normal
+57631,[EditorMgmt] NullPointerException in EditorWorkbook.createControl,major
+26841,Compiler - Does not detect non-visible member type in import,normal
+154040,"[content assist] ""Content Assist"" window disappears",normal
+225534,numeric literals unsupported beyond int and float,normal
+171191,"Require a API to get similar signature for a type from model.dom, dom.ast, parser.ast",enhancement
+74195,Allow user to choose the javac declaration to use for import from buildfile,normal
+213268,[open plug-in artifact] filter is too stringent,enhancement
+4515,Carrots and Anchors (1FV5UKI),normal
+161790,[Undo] - CopyResourcesOperation should invalidate if source resources are gone,normal
+301921,eclipse will not open.,major
+218648,[Error Log] Export Log... always exports the first error,normal
+70915,[spell checking][preferences] editors do not update after spell check preference change,minor
+60468,Text-/Java-Editor's Find-Replace dialog does not memorize the replace value,minor
+247827,Plug-In Manifest editor -> depenencies -> plugin selection -> Improve responsiveness,enhancement
+296414,Buttons with accelerator keys refuse to respond to mouse clicks,major
+313975,The Core Resources API should support adding 'permanent' properties to the .project file,normal
+171670,[typing] Shift Left/Right in Text Editor scrolls viewport,normal
+303370,Creating an event breakpoint leaves you with a disabled element in the Breakpoints views,normal
+7730,Error message on deleting a project with extra files needs to be reworded,normal
+21005,[Team Core] silent walkback attributed to team,normal
+112586,[api] add support for toggling folding for IJavaElement's,enhancement
+148364,Tree with MULTI | FULL_SELECTION does not show focus ring,normal
+295573,IDE Hangs on paste from one java file to another,normal
+211520,[CommonNavigator] Save disabled when Project Explorer view has focus,normal
+288565,[Widgets] Table shows wrong text in second and third columns,normal
+13551,Launch not removed from Debug view if already running error encountered,normal
+245790,Add a template variable ${clipboard},enhancement
+155352,"Enable ""Properties..."" button for multiple selected Imported Packages",enhancement
+48465,Search refuses 'whole word' when punctuation used,minor
+22125,Permit suppression of parentheses insertion in code assist,enhancement
+20400,Fully qualified class names break visibility in WSWB 1.0.,normal
+134589,allow model driven selection/expansion restoration,enhancement
+26220,Run With...,normal
+125361,spelling error in Configure Details Area dialog,trivial
+131788,[Sync Info] CVS unmaps project when project directory is missing,minor
+77800,[Encoding] Wrong information shown in encoding properties dialog,major
+247216,Display.post(Event) - problem with ALT+SHIFT+INSERT,normal
+248163,NPE in Element.asType(),normal
+53658,GTK: List should not pre-select item if setSelection is not called,normal
+5523,"Add ""Finds Strings To Externalize"" to Java project and source folder",minor
+231265,[override method][code generation] allow to enter new methods at the current cursor location,enhancement
+110807,Need way to access compilation errors from Compiler,normal
+75779,Order of perspectives lost between sessions,normal
+34710,Stop auto building of java files,normal
+88712,[Refactoring] Add new super-class,enhancement
+187562,CommonNavigator is not documented,normal
+206750,[JUnit] Running JUnit tests in ANT should bring up the JUnit UI,enhancement
+32126,Text selection in 'Edit Template' dialog behaves oddly,minor
+151765,[generate constructor]  doesn't respect the formatter settings,normal
+184609,TreeLayout doesn't let you resize columns,normal
+189732,Ambiguous accelerator key in OSGi launch dialog,normal
+48315,LaunchView thread timer runs too long,normal
+5838,[Navigation] Should support both a step into and step over,enhancement
+310162,Out of memory in c++ parser,critical
+35417,"""Replace With"" menu is empty when no provider",normal
+17981,Cycle Actions do not work in German,critical
+155068,"unable to checkout module, suspect JDK bug",major
+198081,Problem with code completion and nested classes,normal
+241870,C/C++ Project View does not support Drag and Drop from 3rd party plugin using PluginTransfer,normal
+177019,Add WPF build,normal
+98754,[Contributions] View sites are returning disposed contribution items,normal
+243845,API Tooling tags for org.eclipse.compare.patch.* in org.eclipse.compare.core,trivial
+70487,TVT3.0: NL Fragment build tool to pick up gif files.,normal
+94277,Cannot change build command,normal
+45025,Hang on file copy/paste from Package Explorer,normal
+32216,SearchMarker exception found in .log,normal
+237022,StackOverflowError when opening class in jar,normal
+291073,JVM Crash when printing to console: SIGSEGV native frame [libglib-2.0.so.0+0x6a2f0]  g_utf8_offset_to_pointer+0x20,critical
+7217,manifest editor UI inconsistent and confusing,normal
+31833,wrong background for separator label on MacOS X,normal
+33238,Support reruning a test suite [JUnit],enhancement
+110096,"[DnD] Dragging a file over to an editor opens an editor where current editor has focus, not where it was dragged",minor
+65690,[ViewMgmt] Multiple Views don't care of the perspective layout.,normal
+108581,[navigation] Double click selects too much,minor
+24660,Warnings for non-externalized strings,enhancement
+274102,Funny feature name for API tools feature,normal
+34327,Update (P.3.) Feature Install wizard: usability,enhancement
+6018,No way to delete custom perspectives,enhancement
+25147,Can't seem to cancel JRE search,major
+231696,[ds] Refactoring Messages fields,normal
+250485,[EditorMgmt] Status message from active editor is hidden when Eclipse started,normal
+164797,[Viewers] [Snippet] Show how to avoid scrolling when Viewer refreshes in 3.2,normal
+51859,[expressions] Multiple watch (expressions) views,enhancement
+154241,NPE in RCPTestSuite,major
+188821,SAXParserFactory getFactory service considered harmful?,normal
+112611,Deadlock in SuperTypeHierarchyCache while coding,critical
+169125,Make IDE#saveAllEditors work for logical models,major
+275018,[Markers] Problems View / Configure Contents dialog should support rename,normal
+320346,Test,normal
+148370,[formatter] new Class<?>[] {} kills formatter,normal
+233283,search engine returns emtpy search results,normal
+73104,[format] indentation amount tied to tab size,enhancement
+264085,[target] can't edit the location location,normal
+271530,[Wizards] Wizard progress label not cleared between runnables,normal
+105393,Tree widget does not update rollover tooltip when an item changes text.,normal
+196538,[Viewers] AbstractTreeViewer.getTreePathFromItem fails because of Assert,normal
+140980,[recovery] ClassCastException from JDT compiler,normal
+33079,[JUNIT]Shell.isVisible returns false after shell.setVisible(true) called,normal
+52802,Refresh in JUnit view,minor
+87666,"[Workbench] Menu items that open new shell should have ""..."" in their name",trivial
+92282,Console lags behind output,blocker
+51290,Java Browsing selection should be updated when CU is reconciled,minor
+249011,implement focus ring,normal
+128451,likely error in ControlEditor,normal
+316822,menu icon size should use system icon size,normal
+68840,Source not found on Console hyperlink for Separate VM builds,normal
+74992,Provide logical structure API base for Java,enhancement
+167668,[Viewers] Changing logical structures using the Show Structure As..  menu breaks view,normal
+6548,Missing mnemonics in Debug preferences,normal
+228132,no welcome note and am not able to create a project,normal
+318778,AntiAlias doesn't work with Clipping,normal
+85686,Specific System Library is not stored for project in some case,normal
+186079,java.lang.NoClassDefFoundError occurred when try to compile JSP file in PDE develope env,blocker
+52952,show all env vars when replacing environment,enhancement
+14797,NumberFormatException if cancel Go to line in console,normal
+239303,"CDT cannot parse ""int test[2][2] = { { }, { } };"" as an array declarator, when it should.",normal
+171634,[formatter] doesn't add line feed at end of file,normal
+38741,Typo in Javadoc for MarginPainter,normal
+311183,additional plug-in in feature launch gets silently removed,normal
+116881,[Forms] Scrolling in forms leaves major cheese,major
+181610,"Trim end-line whitespace, replace tabs/spaces with spaces/tabs",enhancement
+268492,during share of web dynamic project the project occures twice in the view,normal
+256153,Need API for disabled project builders,enhancement
+128815,Assertion failures in log,normal
+48812,[Dialogs] Increasing Font Size on Windows truncates dialogs/wizard pages,major
+18069,cancelling causes internal error but nothing in log,normal
+294233,"[content assist] ""Insert best guessed arguments"" doesn't work.",normal
+238179,API to disallow workspace modification during JDT/Core operations,enhancement
+56084,IllegalArgumentException deleting lines from a text file,major
+47522,Default launch directory project property,enhancement
+307219,[package explorer] When adding jar files to the build path they disappear from project file folders,normal
+24733,Help text is wrong,normal
+6827,"Delete project reports ""internal errors"" with normal use case",normal
+135736,[KeyBindings] Keys preferences dialog extraordinarily slow,normal
+105263,[BIDI] need to add $nl$/ to icon paths for reversed icons,normal
+47795,NPE selecting method in anonymous 2 level deep,normal
+15416,Classpath container - need to set value even if not referenced,normal
+294769,[navigation] Open Implementation should also work on type names (esp. interfaces),enhancement
+160034,[breakpoints] Status display,enhancement
+103055,[Indexer] reduce use of getFileForLocation while indexing,normal
+207340,PDE Binary build should exclude package-info classes and javadoc doc-files,normal
+55140,Build hangs if running on separate VM that is older than 1.4,major
+178355,Shell w/o SWT.MAX covers taskbar when maximized,normal
+13521,[CVS Sync View] 7 second delay in sync view,normal
+236837,Complete build without changes,major
+41243,GTK-BIDI: RTL support in List,normal
+67825,[browser] browser crashes on jdk 1.5 beta applets,critical
+24024,[Viewers] Error in Javadoc for AbstractTreeViewer::setAutoExpandLevel(),normal
+21980,[View Mgmt] DCR: 4-way sash drag cursor,enhancement
+239902,Runtime parameter overwriten by launch parameter from product,normal
+70765,[Intro] TVT3.0:  Split words on welcome page,critical
+56826,"""Clean"" dialog enablement with Java editor with focus",normal
+204692,PDE Export does not support pack200,enhancement
+65093,Labels truncated too short on templates page of plugin wizards.,minor
+129290,[quick fix] Assign to new... for arrays,enhancement
+6235,Issues regarding to DialogUnits,normal
+225950,[junit] JUnit 4 container has no source,normal
+212022,Export and Import of user-defined key binding,enhancement
+26199,Error on startup - Executable extension definition not found,normal
+89671,Creating new plug-in project with view has no extensions,normal
+54757,Restart dialog; layout problems,normal
+45141,Broken new code formatter,normal
+68754,Text Edtor (Java?): Save All not accessible,normal
+124861,Dynamic Dependencies find a project for import-package that does not export the package,normal
+33142,Hyperlink Navigation: Why is Shift  not possible?,normal
+62114,[Dialogs] Text does not change color when READONLY is false,trivial
+21873,Enancment: Package view display packages as tree,enhancement
+209633,[jar exporter] also show currently closed projects listed in the .jardesc file,normal
+34518,Java Applet: doesn't use the specified java executable,normal
+21638,Second startup trying to restore welcome editor,normal
+109491,Exception in log,minor
+6483,Freeze when right-clicking to view hierarchy on type,major
+18606,[CVS UI] Replace with Version: more than one runnable?,normal
+53174,I18N: CDT Debug can't find a non-ascii filename,major
+134852,Eclipse Source Build 3.2M6 Does not build (eclipse-sourceBuild-srcIncluded-3.2M6.zip),blocker
+198740,Add toString method,enhancement
+123787,[Patch] Apply Patch error handling for invalid formats,normal
+6097,The inspector is not refresh,normal
+323402,Open external location in Problems View throws exception when file is not there,normal
+10127,Key bindings don't work when stopped at first breakpoint,normal
+69637,[CheatSheets] TVT3.0: Problem executing CVS Tasks cheat sheet,major
+3581,Auto-move causes too many builds (1GCV109),critical
+42834,Enumerator is not a field,normal
+330680,"Refactoring Signature Preview bg color is changed to default, hard to read with light syntax coloring",normal
+252094,IOConsole Updater error [included simple program demonstrating issue],major
+160683,instructions in generateParser.html incomplete,minor
+39303,Live Synch view: only show conflicts,normal
+20946,[ExternalTools] Rename tool file/project breaks tool,normal
+184188,[Manifest][Editors] Deleting library from 'Runtime Information' section of 'Build' page causes NPE,normal
+322725,Content type of .cproject should be XML by default,normal
+316620,reorganize build directory so only essential content is sent to mirrors,normal
+272502,Deprecate IProduct,normal
+267979,[Reference] org.eclipse.ui.splash missing from the API reference,normal
+23410,"Show ""No source"" if source locator returns null.",enhancement
+93140,Search for main methods can use smaller scope,normal
+162230,Indexer stack overflow with Windows SDK,normal
+219424,[Parser] bindings for names resolved via using declarations,normal
+245183,[Databinding] ObservableList could do a == check before delegating to the wrapped list,normal
+132028,[Jave Compiler Preference Page] Checkbox requires 2 clicks to enable fields,normal
+210747,[Viewers] AbstractTreeViewer.remove() fails to remove plus sign,normal
+28062,Text field in dialog doesn't get focus,normal
+175957,Bring back the alt-shift-R keybinding for rename,normal
+10152,Computing hierarchy of IResource is slow,normal
+14045,Deadlock exiting workspace,normal
+47451,The Software Update has a problem when it is configurated with HTTP proxy.,normal
+150109,404 Error when attempting to mirror Eclipse Platform Update site,normal
+196832,Direct import does not override access restrictions on indirect import,normal
+102528,Updates don't work in 3.1,major
+51285,[find/replace] Find Dialog obscures found item,enhancement
+26550,[Wizards] New wizard: double click on a category node should expand it,normal
+197077,[Schema][Editors] Read-only description section is writable,normal
+227764,Create an RSS feed for platform builds,normal
+48451,Error Log dialog has OK and Cancel buttons,normal
+210972,[Webapp] Infocenter sends bad redirect URLs in proxy environment,major
+72883,java.lang.NoClassDefFoundError: org/eclipse/jdt/core/dom/Modifier on Copy(CRTL+C) action,normal
+205194,[ErrorHandling] [StatusHandling] StatusAdapter needs Action and Explanation constants,normal
+295988,CDI Exception in VariableManager.udpate prevents all other updates,major
+204192,[WorkbenchParts] NullPointerException in WorkbenchWindow.hardClose,normal
+72708,[Search] Search for references of pure virtual method yields no results,major
+3719,"DCR - ""Create In "" in Hierarchy View (1GE91UD)",major
+74504,Close parenthesis option does no longer work,normal
+35576,Quickfix corrections not available in all cases [quick fix],enhancement
+70629,[J2SE 5] JDI support for extensible connectors,enhancement
+7865,Double-click selection is broken for strings,normal
+181899,CVS History wrongly ordered,normal
+69129,Code formatter should provide the following options,normal
+326741,Problem with Applications Objects Refreshing in RTL mode.,normal
+46729,Platform extension point doc is missing,normal
+266241,Investigate the need of PDETextHover,normal
+68281,GTK PPC: Eclipse crashes with some gtk elements,major
+229589,[jar export] Runnable JAR exporter should also work JUnit launch configs,enhancement
+294405,[DataBinding] Array data binding is missing,normal
+76835,[prefs] Resources plug-in should use new preferences,normal
+53265,[SWT Examples] Image Analyzer crashed when tried to open JPEGs on HP-UX 11i,normal
+44770,[Working Sets] Closed projects are not kept when editing working sets,normal
+231915,[Perspectives] TVT34:TCT216: Hew: Bidi problem in perspective titles,normal
+13720,Breakpoint ruler actions do not work on class files with source,normal
+36402,[misc] Create Spell Checker Plug-in,enhancement
+330362,Filtering (narrow down feature like quick outline) must be enabled in bookmarks and tasks view,enhancement
+68318,[Intro] Word broken accross two lines on Welcome page,normal
+49063,"Refactor/Rename... Preview dialog does not have a ""Back"" button.",enhancement
+105583,Change the way build-user.xml is loaded,enhancement
+94903,Error setting method breakpoint in 1.5 project,normal
+102476,GC drawing problems,normal
+251596,[Forms] Cocoa is ugly using Forms,major
+71648,JavaScript error when viewing JDK JavaDoc classes,major
+79381,"The memory view is ghosted/blank when the GDB console selected via ""Debugger process""",minor
+21750,Plugin disabled after Feature update,critical
+170365,[hashcode/equals] Templates for Generate hashCode() and equals(),enhancement
+139149,Progress dialog blocks password dialog,normal
+75846,Support for programmatic addition of breakpoint groups.,enhancement
+229924,[Content Assist] allow auto-trigger on identifier part,enhancement
+128044,heavy repaint-problems,major
+168081,[Progress] Show actual progress in view icon,enhancement
+78768,[EditorMgmt]  wrapped tab interface for editor area,enhancement
+252083,C/C++ Project Build Properties,normal
+126302,eclipse drag and drop support for the edit area,enhancement
+240919,Launch Config tab setDirty should update the LCD,enhancement
+35277,leak in pde editor,critical
+225734,[misc] IInformationPresenterExtension should not be deprecated,normal
+60203,Launch job waiting forever,normal
+262710,[Language Extension] support for EPIC (pulse programming in C),enhancement
+40221,[Live Sync View] Conflicting deletion not cleared,normal
+339867,Getter setter methods should be renamed along with data member rename,enhancement
+25647,Add Ant View to Eclipse,normal
+285649,TVT35:TCT394: KOR: Duplicated mnemonics in context menu,normal
+305118,"""Add include"" does not work if cpp file has references to needed include.",major
+30565,[Open Modes] right click on resource counts as double click,normal
+263872,[Contributions] NPE when switching tabs; unsure of cause,normal
+109080,managed-build: per-folder settings,normal
+24445,Performance issues on Solaris Motif,normal
+68767,"Syntax Highlighting for ""undefined"" Ant properties in editor",enhancement
+109383,Dependency weirdness with I20050906-0800/N20050912-0010,normal
+59050,Dead lock in JavaReconciler,critical
+248248,Wrong invalid id reference reported,major
+91446,platform touches/reads too many Manifest.mf file,normal
+53142,ClassCastException determining properties for top level code assist,normal
+214146,Typedef in a .cc file affects other .cc files,normal
+104014,Scanner doesn't handle ampty argument for function macros,normal
+158052,Tree crashes when item.dispose() called during SetData callback,normal
+208626,[KeyBindings] Mnemonic gets hidden if there is existing Alt key binding,normal
+14453,Remove InfixExpression.Operator.INSTANCEOF operator,normal
+277735,[relengtool] Copyrights not updated if first line does not match company name in template,normal
+49841,[typing] Auto indentation is turned off when editing java source for some time,normal
+231449,First Table Row Justification Wrong,normal
+3037,Core error compiling a java class (1GEJK8Q),major
+96067,[Workbench] Startup progress reporter dialog unresponsive,normal
+214634,[api tooling] polish API profile creation wizard,normal
+47875,Java search: too many cascading menus,normal
+323583,"Add ""EE"" as keyword to get the 'Execution Environment' preference page",trivial
+34749,Hiding empty parent packages in Java Browsing perspective [browsing] [package explorer],enhancement
+139684,[typing] Can not undo 'Surround with' when undo size is 1,normal
+90232,GridLayout unnecessarily accounts for scrollbars and borders in child control,normal
+52083,[Workbench] active Editor and View tabs should change text colors,normal
+244984,adding super interface to interface does not create errors,normal
+237325,[commands] CommandCache.isTargetAvailable/setContextAvailable don't work correctly with non-stop multithreading.,normal
+342253,SWT.EMBEDDABLE Composites should be reusable after embedded client has disappeared,normal
+35662,If you are in the debugger and click on a variable with a large toString() Eclipse and X11 Crash,major
+47641,[Tasks] Error in log when selecting problem in Problems View,normal
+94303,import static adds annoying semicolon,minor
+252875,move org.eclipse.build.tools to separate project,normal
+23124,"Presentation of ""no source""",enhancement
+34165,Manifest builder should keep build.properties and plugin.xml in sync or at least mark inconsistencies,enhancement
+259617,[debug] Better support for Collections in Variable and Expression view,normal
+69190,NullPointerException @ org.eclipse.debug.core.sourcelookup.containers.AbstractSourceContainer.isFindDuplicates,normal
+67289,UIPerformChangeOperation swallows exception stacktrace [refactoring],normal
+47607,Add editing in alternate concrete syntax [misc],enhancement
+89515,[content assist][5.0] Vararg parameter completion appears in 1.4 code [code assist],normal
+61859,M8 update doesn't contain core components,normal
+8921,DCR - Need a way to create a working copy ignoring existing files,normal
+97461,[Preferences] Keys preference preference page not usable in High Contrast,normal
+38526,[Bookmarks]Bookmarks view table contains empty first line,minor
+333778,[Compatibility] 'Breakpoints' view auto shows selection,normal
+44568,[Managed Build] -Xlinker option requires space separator,normal
+339311,[Progress] Every user-job causes a busy cursor to be shown for a minimum of 250ms,normal
+248246,[dom] Save participant fails when 'new' keyword is used twice,normal
+180347,F2 to rename files?,enhancement
+204573,[Contributions] Calling UIElement#setChecked(true) at IElementUpdater#updateElement(*) executes the handler,normal
+194759,[CTabFolder] Text (filename) wrapping in tabs,enhancement
+129338,"cvs-compare: ""first bytes differ at position 0""",critical
+68424,[Intro] using static home page causes IllegalArgumentException,major
+187904,[tests] Infrastructure for writing unit tests for standard MI-back end service implementations.,enhancement
+159004,Relax restriction on StandardVMRunner,enhancement
+118252,Request for automatic inclusion of relevant globals in Variables view,enhancement
+183090,[Presentations] CTabFolder throws IAE called from PaneFolder,major
+133534,[5.0][hovering] Missing Javadoc hover on package declarations,minor
+43523,[MPE] getAdapter(IEditorStatusLine.class) not working for MultipageEditor,normal
+214853,Menu bar changes when open a dialog in eclipse,normal
+296982,org.junit4 is still in test framework,normal
+16034,"comment templates for ""Generate Getter and Setter"" [code manipulation]",enhancement
+256986,[Templates] org.eclipse.pde.ui.newExtension extension point is not 'identifier-ready',normal
+11345,Setting a project's launch configuration type causes NPE,normal
+290985,Code completion alternatives do not update upon user input,normal
+33061,[Webapp] Switching 'Contents' looses tree state,enhancement
+121569,"[Import/Export] Importing projects in workspace, the default build order is alphabetical instead of by dependency",normal
+156452,[Metadata] Remove occurences of '(no description available)' in extension point schemas,trivial
+71303,BIDI issue in Variables view,minor
+61425,Primary feature not found and plugin_customization.ini not  read when org.eclipse.platform in workspace,major
+115906,java.net.SocketException: Operation timed out,normal
+308813,Next change not working on last difference in Text Compare,enhancement
+43556,"[Tasks] Problems view shows ""filtered"" markers",normal
+31322,Need support for showing Tips &Tricks,normal
+227595,[Contributions] menus/commands added to popup:org.eclipse.ui.popup.any show up when they shouldnt,normal
+84738,[Themes] Current theme preference should be made public,normal
+167825,[quick assist] Convert to enhanced for loop drops additional variable initialization,normal
+6227,incorrect bracket matching,normal
+44072,API Request: Combo#getCaretLocation(),enhancement
+3224,Tests - Re-enable reconciler tests (1GAKXZM),normal
+22699,many missing items in color configuration,enhancement
+133918,[1.5][compiler] Duplicate return; in CastExpression line 258,normal
+149423,Change Object Value never enables OK button when variable is an empty String,normal
+332152,Exceptions logged in FrameworkLog do not show up in the 'Error Log' view immediately,normal
+93794,A  JDT Core Model JUnit test case failed,normal
+4212,DnD: Drop is blocked on files/CUs (1GK1RSN),normal
+219743,[hovering] Investigate whether we can use just SWT.TOOL for rectangular hover,normal
+117107,[flex-hierarchy] No expansion in Debug View,normal
+10338,Smart update for .am variables.,enhancement
+261258,[breakpoint] ClassCastException on breakpoint action,normal
+198533,[TOC][Editor] Sync Selection between Source Page and Definition Page,enhancement
+167256,Allow eclipse to launch without workspace specified,normal
+62809,"[Scanner Config] Handling -DMACRO=""value""",normal
+26824,New auto-suggestion; add 'generate getXxx' when accessing a private field [code manipulation],enhancement
+22403,[Tasks] Tasks and compiler errors,enhancement
+144520,SocketLaunchingConnectorImpl.launch should call Runtime.getRuntime().exec(String []),normal
+205045,pluggable sdk awareness in the project model,enhancement
+50490,Eclipse 3.0M6 hang on rename of package,blocker
+37143,[WorkingSets] API addition to IWorkingSetManager to recreate an IWorkingSet from an IMemento,normal
+234436,[KeyBindings] NPE when shutting down a runtime workspace,normal
+187152,[CTabFolder] does not honour setBackgroundMode for the TabItems,major
+297182,Summary Validation,major
+118159,[Viewers] selection provider should enable copy action in workbench menu,enhancement
+61429,Persistent Display view,normal
+153256,'Add JRE' dialog layout problems,normal
+106027,Convert Find/Replace Dialog to view,enhancement
+49265,Change default key binding for incremental completion,normal
+32081,Mouse click/drag annoyingly sensitive,normal
+205957,Version of javadoc tool used during build doc generation should match project's compiler compliance,normal
+51993,[Content Assist] Enumerations do not appear in the completion list.,normal
+96213,Eclipse 3.1M7 - Field completion stack overflow,minor
+32878,Rollback to Revision,enhancement
+46186,Introduce Factory: MalformedTreeException,normal
+56533,Java Code Formatter: Line Wrapping policy for method parameters does not work,minor
+100579,folding cvs,normal
+76233,[Forms] Incorrect section description height computation in flat forms,normal
+80017,long strings show cheesey on details pane,normal
+89215,Browser resolution logic seems bad,normal
+39023,Create static field quick fix creates an instance field [quick fix],normal
+52252,[DetachedViews] [EditorMgmt] add ability to tear off java editors,enhancement
+216692,[1.5][compiler] Protected type not visible in subclass,normal
+18756,Support F2 in Hierarachy and other Views.,normal
+27592,[EditorMgmt] CTabFolder Tab Labels,enhancement
+25546,NPE trying to close broken view.,normal
+33991,Unreachable catch block when openning source,critical
+16975,Up/down button on launch history page not working correctly,normal
+126598,"[DOM][AST] String[] s =  {"""",,,} leads to wrong positions after conversion",normal
+2085,Tear off windows over the editor is confusing. (1GE6SUW),normal
+54717,JUnit contextual launch must port to new XML Expr Language,normal
+77852,Eclipse crashed...,critical
+10598,Could not create action --> ClassNotFoundException,normal
+14177,Context menu for Java file is missing 'Externalize Strings...' action item.,normal
+46253,Need confirmation dialog box before editing read-only files.,normal
+133936,[misc] Compilation Unit Editor tramples file content,normal
+64607,GC.drawRoundRectangle/GC.fillRoundRectangle,normal
+124116,Ensure Update handles the Callisto load,normal
+35885,J9 plugin should use Xbootclasspath instead of bp,normal
+9126,Inner classes hard to debug because out scopes not visible,enhancement
+300630,Extension Point schemas/declarations that use the same name for the point id as the schema file are reported as errors,normal
+72595,[Themes] Themes need to be extendable,normal
+202459,[ASTLocations] fix the location concept for the AST,normal
+101211,Generalize Type disables after cancelling Change Method Signature,normal
+185054,[JUnit] No execution time for imported junit test run,normal
+112182,TabFolder does not send selection events when selection is changed programatically,normal
+10462,Launch several testcase with JUnit [JUnit],enhancement
+51572,Pref Page Local History Note,normal
+18157,Internal Error when deleting project,normal
+202452,[hovering] Hover and Javadoc view do not format {@code true} when it immediately follows @return,minor
+65988,[Intro] Welcome - erasing window,normal
+112888,JDINullValue incompatible JDIObjectValue: Exception processing async thread queue,blocker
+282019,Way to query specific key binding,enhancement
+307000,[Webapp] Ability to filter based on union of scopes,normal
+92826,[api] change to TextTextHoverKey,normal
+15576,The New File Wizard Page is Not Screen reader able,major
+319451,Opening the launch dialog scans all plugins,normal
+251339,[ds tooling] Strange label selection in Service Component editor,normal
+44095,CVS decorators should show incoming/conflicting files,enhancement
+9386,cannot import jar files into project,major
+2309,Moving view has different reveal order than close (1GENS04),enhancement
+344537,"""Details can be found in the log""",normal
+64772,[RCP] IProduct and IBundleGroup file properties must be resolved relative to the corresponding bundle,major
+314864,[Wizards] chkpii in org_eclipse_ui_keywords.html in I20100527-1200,trivial
+252248,ClassCastException in CPPSemantics.getParentScope,normal
+49909,problems during CVS team -> unedit,normal
+163128,org.eclipse.debug.ui plugin needs organizing,trivial
+127666,NPE during decoration,normal
+125646,can't export prebuilt packages,normal
+103905,Exception while creating Package Explorer view,normal
+52209,JARs from global classpath not found for build,major
+185708,[Wizards] Provide link to open SSH/SSH2/proxy preferences from Connection wizard,enhancement
+309288,fast indexer does not work correctly with autotools project,normal
+17537,TM: Site explorer should have larger fastview ratio,normal
+35967,Create TestSuite Template can be simplified [JUnit],enhancement
+46768,Call Hierarchy does not work on constants,normal
+154880,DeltaProcessor does not set project references if first build is a project build,critical
+130123,"""rm"" does not exist in Windows",normal
+147359,[JFace] Add a standard date editor,enhancement
+140870,No version range specified when requiring bundles,normal
+6056,"No revealing in type hierarchy when ""show members in hierarchy""",normal
+81182,instruction pointer text is not highlighted properly for external soruce,normal
+154705,NPE opening custom perspectives,critical
+17342,R1.0 workspace: Task view settings lost,normal
+273391,AntSecurityException when dragging a build file to the Ant View,normal
+13715,Make use of available icons,normal
+287234,[DND] drag/drop onto empty table generates exception in SWT,normal
+279328,Console View : Problem in UTF-8 translation,normal
+45454,[tests] test failure in LinkedResourceTest.testCopy,normal
+4804,StyledText - implement better autoscrolling behavior (1GIZ7A6),normal
+132681,Disabled image not greyed out properly,normal
+21973,[Editor Mgmt] Support for opening a file that isn't in the project workspace,enhancement
+48782,Checkbox lines should not be full-width of editor for build.properties,minor
+69127,"In Mark occurances feature, show the first and the last occurances distinctly.",enhancement
+22561,Hover Help broken in 2.0.1 I20020815,blocker
+51541,NPE restoring scrapbook editor,major
+8534,"Eclipse tilde character not displayed when entered, system hangs",critical
+114439,Status returned from IOperationValidator methods do not contain specific feature information unless the internal FeatureStatus Class is used for typecasting.,enhancement
+34115,[DOC] Log messages while searching help,normal
+84282,Leakage from Ant Build: FileLinks,normal
+212868,[misc] Index out of bounds in RevisionPainter,normal
+13006,Alt+1 with blank TabFolder results in NPE,normal
+71771,"[navigation] ""mark occurrences"" for extends/implements clauses",enhancement
+53697,[java debug] Automatic disconnect after N timeout exceptions,enhancement
+111059,[Markers] Add a problem specific details pane,enhancement
+9191,Walkback in CVS console,normal
+335685,Debugger stops on line where removed breakpoint used to be,normal
+35616,[Navigator] Progress dialog does not show resource paths when moving/copying,normal
+38626,DirectoryDialog getFilterPath() always returns null,normal
+299378,OperationCancelledException should be handled gracefully,normal
+247028,restricted constructors from public static inner types not flagged,normal
+56154,Plug-ins can't compile - SWT Missing,major
+155721,[Decorators] Missing font/colour decarations,normal
+16826,Create new Feature with space in name should compute ID,normal
+187614,[Forms] org.eclipse.ui.forms.widgets.Section does not allow background image to be set,enhancement
+294137,[Help] Definition of Search Scopes should go beyond just 2 levels,enhancement
+106677,Code Assist: shows newly defined variable name as possible selection,normal
+3886,Minor: F4 does not reveal method (1GF2740),normal
+75588,generalize watchpoint to debug platform,enhancement
+15059,Initializing constructor creation,enhancement
+84440,[C++ Offsets] IASTEnumerationSpecifier$IASTEnumerator has bad offset,normal
+121391,[History View] New File History View does not track revisions,normal
+268225,Maximized Outline view looses selection,normal
+64514,Remove dependency on obsolete ProgressTreeViewer,normal
+43002,[KeyBindings]: Binding Ctrl-Tab to any command failed,normal
+252411,"When creating new C/C++ Project: Problems occurred when invoking code from plug-in: ""org.eclipse.jface""",major
+74432,[Widgets] Interesting warning from metacity,normal
+135551,Main Menus do not wrap,major
+63476,[Workbench] SWTException closing editors,normal
+36150,CElement.fLength == -1 throwing the CEditor.setSelection(),normal
+10584,Merge needs progress,normal
+6295,"File ""save as"" bug, new file is read-only",normal
+202789,Long running PackageExplorer  operation blocks UI,normal
+34442,Custom task does not work in folder (only in jar),normal
+31645,Checking off a method/field in the refactoring wizard navigates list to top,normal
+26110,Coredump from I20021018,normal
+125311,Allow to add resources via variable to resource sets,enhancement
+255269,Fragments should be able to see types from the host,normal
+64448,Multiple entry fields in goto line dialog,normal
+237165,Numbering for stack frames in Debug view,enhancement
+236253,builtins not populated in makefile editor content assist,normal
+151815,The refresh and relevant resources in External builder should be project relative,normal
+178526,"New menu item ""Open Debug Dialog..."" is counter intuitive and has bad kbd access key",normal
+200358,Breakpoints are sometimes skipped,normal
+13491,Cannot debug a deadlock,normal
+57981,3.0M8 not saving extension locations for plugins,normal
+23301,[variables] Debugger records the history of variables,enhancement
+44994,Please provide automated management of JavaDoc,enhancement
+52308,[EditorMgmt] Right-click on editor title bar flashes drop-down then system menu,normal
+120843,Refactoring History outdated after Replace With ...,normal
+64624,[Workbench] Perspective switcher on left does not grow to show new items,normal
+33582,Indicate that a feature is not available for download due to a missing license while displaying.,normal
+27698,eclipse wont start,blocker
+208036,Detail pane in inspect popup dialog is too small,normal
+282103,[open type] wrong matches shown together with right one,normal
+9780,Add doesn't ignore ignored resources,major
+155811,Full Indexer can't index gmp.h,normal
+113037,MessageDialog not centered on Linux,normal
+9209,Open Type Dialog is too slow,normal
+236506,Fragment not refreshed properly by the configurator,normal
+60515,StackOverflowError checking out org.eclipse.help.webapp and org.eclipse.tomcat,blocker
+22525,[TM Sync View] Not prompted to upload conflicts,normal
+40519,"""Revert block"" doesn't call validateEdit",normal
+234261,"[memory] ""Update Policy"" menu is enabled for memory monitors that don't support it.",normal
+196846,SWT.PASSWORD flag is not supported in StyledText,major
+3746,Deleting main method does not remove running icon in subtypes view (1GELGH5) [render] [type hierarchy],minor
+225665,Two error dialogs appear when trying to share a project with extssh info when ssh plug-ins are not available,normal
+35324,[Contributions] ActionContributionItem.handleWidgetSelection wrong for MenuItems of RadioButton style,major
+227092,"""link with editor"" unreliable",minor
+9656,Refactor/Rename method parameter should change javadoc,minor
+234248,[Memory View] Should be able to show (rendering) tabs of all monitors together.,enhancement
+71146,[Browser] Browser widget should allow to hide 3D border,normal
+114909,AST: String concatenation represented as single node,normal
+59166,Last active editor is not highlighted,normal
+206402,[Progress] IProgressConstants.KEEP_ONE should remove job when another job starts,normal
+4228,Widget is disposed error (1GKCZQM),normal
+50377,Swt MANIFEST.MF not adjusted to repackaging of SWT_AWT.,normal
+295319,Table: Background color not drawn with empty EraseItem-Listener,normal
+142749,"[EditorMgmt] NPE while closing editors, if input resource has been removed",normal
+71675,NPE starting drag in persp. bar.,normal
+226384,"Help ""running eclipse"" topic elides two headings",normal
+191368,Policy URL in preferences doesn't support UTF-8 characters,normal
+30626,"Project Set import needs to allow root directory to be specified, or potentially dir for each project in set",enhancement
+335910,SynchronizableDocument causes deadlock by firing events inside of a lock,normal
+257903,[Contributions] ToolTip on the ToolBar and Menu Visibility tabs of Customize Perspective Dialog should be better placed or appear after a delay.,normal
+56577,[Colors/Fonts] Importing color preferences is not applied until restart,normal
+270490,A web page opened in embedded Mozilla Browser could move/resize Shell window,major
+297509,"[IDE] FileFolderSelectionDialog unnecessarily tells me my selection is ""OK""",minor
+215897,[Contributions] (regression) popup menu missing contributions,normal
+320184,Error=1 after autocompletion tooltip is shown and hit enter on an option.,critical
+75500,Step into Selection --> Step Into Selection,minor
+78069,Master/Details Part registerPage() javadoc: method won't work for interfaces,enhancement
+140536,"[Markers]Task in same line is not appered, when create markers with using",normal
+37331,UI operations that call IType.createXXXX methods should handle potential JavaModelException [code manipulation],normal
+7414,SWTException when closing workbench window,normal
+42484,NPE if ctrl dbl click in Ant properties block,normal
+106603,[model] Rename Type still reports syntax error after switch to 5.0,normal
+3473,mnemonics (1GF25DN),major
+163203,"[Sync View] synchronize view: When selected multiply projects the label now says: ""CVS X items""",normal
+69246,Previous plug-in version not used when newer version is deleted,normal
+71205,Error trying get pixel color in OpenGL,normal
+31324,hyper link style navigation behaves strange with 'Shift' or 'None' modifiers,normal
+166706,[Databinding] WritableList.clear() does not clear the list,normal
+28743,trying to see test hiearchy freezes eclipse [JUnit],critical
+30577,Actions should check for IAdaptable#getAdapter(IJavaElement.class) [misc] [general issue],normal
+55754,[Welcome] Welcome does not size properly,major
+262900,[Commands] Properties action disabled in debug view,normal
+79785,Constructor call in argument list not found,normal
+334917,[About] About text needs to be updated to 2011,normal
+67268,Double-clicking on the editor chevron zooms/unzooms editor area,normal
+135743,Build 3.2M6 crashes on startup after UI layout changed in previous session,blocker
+320524,a call to swing UIManager.setLookAndFeel makes SWT freeze (proof with MessageBox) under linux/gtk,normal
+44697,Bug when i search reference of 'String' in 3.0M4,normal
+43825,File --> New --> Class option available before PROJECT is created,normal
+14112,Show in Navigator doesn't work for non-java resources,normal
+195190,First Eclipse update requires a JPA enablement,normal
+189045,tooltips for buttons not appearing,normal
+170437,"[Model Sync] Coloring of changed packages, classes and methods",enhancement
+188747,"[doc] ""Realizes"" should be replaced with ""Opens"" in help doc",normal
+32247,Missing hashCode in org.eclipse.debug.internal.core.LaunchConfigurationInfo,normal
+73696,"searching only works for IJavaSearchConstants.TYPE, but not CLASS or INTERFACE",normal
+158232,'Terminate and relaunch' action is enabled for non-relaunchable configs,minor
+39573,SWT error after pressing F11,normal
+124990,[rulers] Line selection using line number ruler does not work anymore in Java Editor,major
+35760,[HP] ComtrolExample flat arrow buttons not inside group,normal
+59676,[Workbench] High Tab font not changing the height of the tab,normal
+266489,[api tooling] No error for missing @since tag for overloaded methods with param using generic,normal
+87760,Problem with RIGHT_TO_LEFT direction for MenItem,normal
+41720,library added to a project not included in makefile,critical
+18582,Tooltip for Next Difference shows Ctrl+E,critical
+94512,'New' button missing in the scope set dialog,normal
+107402,CDT 3.0 download page links point to download.eclipse.org,normal
+4040,Modified tick shown for resource folder in packages view when no change (1GGPVTN),critical
+34058,"Table in ""Installed JREs"" pref pages doesn't save column width",minor
+273994,Shutdown progress: 'Click Cancel...' message should go away after click,normal
+185711,Bad layout of Binary parsers tab,normal
+1795,Userscripts plugin.xml uses <plugin>/<class> notation (1GHF8LK),normal
+327300,[C++0x] Allowing move constructors to throw,normal
+52794,Double confirmation upon launching,normal
+55120,need access to margin values in CTabFolder,normal
+50990,"no ""Build Project"" item in ""Project "" column in C/C++ develope UI.",normal
+240039,[ds] Error Reporter Tests,normal
+4614,Graphics: Take advantage of platform code for reading graphics formats (1GAOW17),normal
+79347,[Forms] not rendered as fancy as on windows platform,enhancement
+45078,CVS History: Linking does not work for compare editor,normal
+58099,[typing] Screen is not refreshed if Ctrl+Delete deletes entire line content,normal
+29214,[Contributions] IllegalArgumentException: can't find ID after customizing Java perspective,normal
+98730,Session test failures in N20050607-0010,normal
+197011,Add JRE fails to retain system library modifications.,normal
+175100,consider having content assist ignore array brackets,enhancement
+13056,can't delete 2 identical methods,normal
+70135,"Add ""Deprecate"" to Rename refactoring [refactoring]",enhancement
+93900,Need new ant task to mark file(s) derived,enhancement
+138637,[History] NPE from history view,normal
+35262,[variables] user can modify detail pane of variables view,enhancement
+310672,Get rid of clones of PixelConverter class,normal
+125436,3.2M4 crashes VNC's X server,critical
+312165,Viewers should clearly indicate whether a folder is excluded from build,enhancement
+66328,[Intro] Welcome page sometimes appears twice,normal
+238920,[formatter] Code Formatter removes javadoc status if @category present,normal
+52015,Source view: AssertionFailedException while editing,normal
+267271,Add <dir>/plugins/* and <dir>/features/* to target,normal
+271612,Increment minimal versions of required plug-ins in team and compare plug-ins,normal
+172017,[Change Sets] Outgoing changes view in old style sync is empty if user is to quick,normal
+31607,"When debugging, console is blank until I force refresh",normal
+70783,problems installing plugin XMLBuddy,normal
+24970,JRE in the launch configurations dialog should be ordered,enhancement
+14599,Deadlock while synchronizing,normal
+64893,[Dialogs] Detached views and dual monitor: Properties/view config dilaogs on wrong screen,normal
+30783,"Template removal results in NullPointerException in the ""New class wizard"" [code manipulation]",normal
+61301,[osgi] eclipseAdaptor does not mark the bundleData as dirty on startLevel change,minor
+98217,@SuppressWarnings causes NLS warning,trivial
+26456,[Editors] Undo - undoing 2 changes at once,normal
+200961,[formatter] the formatter fails to break long constant initialization line,normal
+38942,Cutting/Pasting a versioned file causes removal from CVS,normal
+12550,Endless loop with problem painter,critical
+68243,@link javadoc tag not parsed properly,normal
+297320,[nls tooling] Add more tests for Find Broken Externalized Strings,normal
+188539,Errors when open dynamic help in Europa,normal
+225600,would be good to have separate preferences for different kinds of API leakage,enhancement
+216636,"""Show In -> History"" does not work if ""link with editor"" is on and history view is not visible",normal
+25715,ugly new tree widget,normal
+13341,Show in Packages View doesn't work from java editori,normal
+64575,Colors and Fonts preference page should show current settings for fonts,normal
+314448,[efs] deleting a file inside a non-readable non-executable folder fails without exception,normal
+16335,"Sync view default size, fastview",normal
+27267,[key binding] Emacs C-_ key binding not working,normal
+109594,[content assist] Insert common prefix upon filtering (was: New code assist: don't use ctrl+space to switch),enhancement
+79978,"""Source Code Locations"" preference page - can't add another lookup location",normal
+31022,[Key Bindings] Error using pde.convertSchemaToHTML ant task on org.eclipse.ui,normal
+285455,Archive type container could support root path,enhancement
+85687,[1.5][dom] Java AST creation error caused by duplicate type parameter,normal
+218826,Cannot get rid of change sets,normal
+254895,"[Trim] sometimes on shutdown RCP crashes in ""LegacyAnimationFeedback""",normal
+259013,SWT Table truncates text longer than 259 characters,major
+94751,Column widths in the Error Log view are all zero,major
+322,EC: Cannot edit plugin.xml (1GJUIUR),normal
+108657,Internationalisation broken,normal
+247666,[1.5][compiler] AIOOBE inside missing type reporting,normal
+38250,mnemonic accelerators in dialogs not functioning in redhat 8.0,major
+27805,need configuration for quietly running external tool builders,enhancement
+269655,C++ Destructor in AST Operation is shown as const and volatile,normal
+52500,can't open fragment manifest editor,normal
+42795,[Team Concurrency] Refactor getAllOutOfSync to support concurreny,normal
+273834,[target] error reading manifest for two bundles,major
+60204,NPE in Managed Builder,normal
+292361,Welcome page: Link to Workbench should always be at same place,normal
+235679,TVT34:TCT731: PLK: functional: Ignorant dropdowns in API errors/warnings,minor
+56095,[RCP] setShow* methods have no effect after window is opened,normal
+149533,[WorkbenchParts] notification closing editor reference,normal
+316150,[Memory Browser] should release the rendering after the target is disconnected,normal
+317584,Commented line throws Compiler error and Runtime exception,normal
+161538,Platform crashes when loading.,critical
+6069,No key event for Ctrl+@ (Ctrl+Shift+2 on most keyboards),normal
+279575,[Navigator] Navigator: Link with Editor fails after startup,normal
+26332,IllegalArgumentException in ProblemPainter (?),normal
+280101,Eclipse crash when moving file in Package Explorer,normal
+58203,Leak from ProgressManager.runnableMonitors,major
+66918,Run as JUnit test doesn't find tests hierarchically [JUnit],enhancement
+93924,Add keywords to preference pages,normal
+299420,API leaks in type parameters not detected,normal
+292703,The Find/Next menu dropdown is permanently disabled if selected before a Find/Replace is done,normal
+228956,[RCP] [Doc] Document expression-based actitivies,normal
+150634,Add support for automatically handling header files & dependencies,enhancement
+224470,[source lookup] be more resilient when it comes to directory-based bundles,normal
+181941,[search] References to package filtered although all filters are disabled,normal
+97301,flattenLocationsToFile returns null causing NPE in indexer,major
+300447,[find/replace] Find / Replace causes rendering corruption when replacing \n.,normal
+81957,AST error while parsing annotation,critical
+6557,Unable to instantiate view: org.eclipse.pde.runtime.LogView,normal
+245147,[DetachedView] Floating windows cannot be recovered when 2nd monitor is disconnected,normal
+132900,Improve perspective description for display for CVS Repository Exploring perspective,normal
+263037,[content assist] Filtering broken for constructor proposals if there are chars after the caret,normal
+86636,[console] JavaStackTraceConsole should allow Find/Replace,normal
+342096,Executables view shows binaries for all build configurations instead of just the active ones,normal
+31244,Renaming linked source folder copies content,critical
+120400,exception raised CPPUnknownBinding.resolveUnknown,normal
+37908,Right click does not update caret,minor
+13520,Cannot release/commit an outgoing change,normal
+83443,move build scripts used to generate srcIncluded and srcFetch drops to eclipse.org  cvs repository,normal
+41936,able to extend ASTNode and AST,enhancement
+20722,GTK TableColumn#pack does not work if no header,normal
+31039,Eclipse does not responde when dialog is opened.,major
+239354,[Browser] org.eclipse.ui.browser.browsers documentation error,normal
+282,Wizard: title is missing (1GFDGX8),normal
+52510,NPEs with fragment editor,normal
+22589,GTK: StyledText widget is slow,normal
+41109,A package named cvs,enhancement
+46599,Change Type Action: is disabled for all structured selections,normal
+76703,NPE in event loop,normal
+297071,Step filter test failure on Mac,normal
+95408,null missing in getBackground/ForegroundPattern API spec,normal
+255732,"[Webapp] Ability to customize/config print.css for ""Print selected topics and all subtopics"" window",enhancement
+57455,Aggregated plugin search indexes,enhancement
+128517,"[IDE] It's not predictable, when ""Close Unrelated Projects"" is available",normal
+321628,Filtering feature based launch with no selection breaks table contents,normal
+95340,[formatting] Allow to create MultiPassContentFormatter that does not extend the formatting region,minor
+299210,[CommonNavigator] Test improvements,enhancement
+135346,enum should not be used as identified shown when enum in package.,normal
+49961,invalid thread access,normal
+139911,Project-scoped preferences not accessible from OPEN event handler on project import,normal
+42006,Cannot use Ctrl+Arrow in the java editors,critical
+336419,Remove test for org.eclipse.jdt.apt.javadoc.txt log,normal
+45837,Init Error of classpath,normal
+330416,Enhancement request for the Java AST/DOM package. A helper method to get a new Type ast node that corresponds to a given ITypeBinding.,enhancement
+41971,[CVS Sync] Strange error in log,normal
+319398,JDT Object Icons (e.g. class_obj.gif) are not guideline conform,normal
+27181,Sleak - instrumentation not done on GTK and Motif,normal
+35496,Setting font for Table headers does not work,normal
+192292,Why does PDE try to build features in the order listed in feature.xml?,normal
+57258,Option to show toString values in Variables View,enhancement
+321558,[preferences] problem filtering should allow to combine name with value search,enhancement
+98865,[KeyBindings] preference page: Cannot assign shortcut to Show Navigator View,normal
+62794,Stub on code assist: Should check if method name is valid Java id,normal
+65864,Not recognize extention plugins added by 'Managed Configuration',normal
+137834,Code-Assist does not provide methods defined by interfaces implemented by a generic parameter,normal
+70032,[ProblemsView] Help Context - Java Perspective,normal
+85158,Update builders to execute clean target on Clean,normal
+80071,Rapid stepping gets ahead of UI updates,normal
+240308,[junit] Eclipse JUnit4 test runner displays a single test in a tree called Unrooted tests,normal
+17083,[ExternalTools] Invalid Thread Access exception being thrown and lost,critical
+261978,[Viewers] [Snippets] JFace Snippet055HideShowColumn does not show column,normal
+227818,NPE in spy,normal
+202394,[Viewers] Test failure for Bug2012002TableViewerTest#testBug201002 in M20070905-1045,normal
+245497,Show origin of libraries in Runtime Classpath dialog,enhancement
+318553,[quick fix] Add quick fix for 'The parameter x should not be assigned',enhancement
+36241,CVS rep view - icons displayed under Versions when there is no version info.,normal
+21551,"[DCR]GTK support for setting ""selection"" foreground/background colors (BBAWT)",normal
+2308,workbench action example does not run (1GENQ7V),normal
+50930,"Improve ""Step With Filters"" icon",normal
+129324,Incorrect attibutes in Plug-in Registry view,normal
+305433,[Gtk] unexpected MouseExit event for Shell causes bad interaction with JFace ToolTip on 3.6,normal
+223739,[ds] create a basic editor for DS files,enhancement
+128822,StringIndexOutOfBoundsException in log,normal
+60533,[misc] Ctrl-C doesn't work when editing/ fixing errors,normal
+41978,Javadoc View loses formatting on resize,minor
+68607,Need to be able to participate in JDT copy refactorings [refactoring],enhancement
+180785,[Help] Content extensions not showing up for context help,major
+70106,[Tasks] Show task decorators in Navigator/Package Explorer/Outline,enhancement
+11782,java browsing: i don't see my resources [browsing],normal
+69522,[MacOSX] Variables are not shown in debugger,normal
+212565,[Dialogs] Open Resource dialog's camel case support fails with file extensions,enhancement
+166934,limit open type CTRL+SHIFT+T to selected working set,enhancement
+61166,source not found,normal
+94481,jUnit tests taking nearly five times as long to complete,major
+53293,[browser] Browser doesn't support user/pass logins with mozilla,normal
+190515,"""Add to Java Search"" - nothing in progress dialog",normal
+330771,Run last launched disappears,normal
+283970,Invalid indentation of conditional expression,normal
+25348,Coolbar - Emulated behavior vs Windows behavior,enhancement
+19117,[Editor Mgmt] opening java editor can take long time - show busy cursor,major
+236096,Incorrectly allow raw return type in overridden method,normal
+306855,"[DBCS3.6]: TCH: RHEL5 - Cannot open ""Open Element"" dialog.",major
+27765,Cannot copy content of classfile editor,blocker
+265375,[implicit bindings] add implicit names to certain AST nodes,normal
+42443,"Error when inner class name has the same name than another class, but with not the same case sensitive",normal
+144768,Code tab bar disapears,normal
+11665,Replace with Latest with deleted folder fails,normal
+226938,New win32 native fragment for org.eclipse.core.net,normal
+305139,[Sync View][Apply Patch] Merging a file with an unmatched hunk hides the file,normal
+117383,The Javac paths specified in the custom build scripts need to be extended,normal
+137111,classpath collision for separate src / test directories,enhancement
+10018,System Objects View does not take into consideration existing selection,normal
+73221,Focus is not set in the top right control of tab folder,normal
+17810,Workbench->Compare pref page doesn't resize well,normal
+88473,Starting an external build triggers other external builders,normal
+8983,List of views in Update shows an unknown view,normal
+277063,ANT COPY task doesn't recognize Virtual File Systems,normal
+110059,[ast rewrite] strange formatting after change to enhanced for,normal
+341683,Table with TableEditor using a checkbox does not render correctly on Windows 7,normal
+208567,[StatusHandling] Remove Java 5 from the test tool,normal
+114888,[model] Unresponsive when reconciling and ASTProvider concurrently access LRU type cache,normal
+25363,[Workbench] Eclipse starts (apparently) Minimized,normal
+94368,"[Preferences] if the dialog is resized, new pages are unable to set their required size",normal
+8815,Open Hierarchy does not set focus correctly,normal
+215341,Probable Bug in SWT PrinterData.otherData using Linux-gtk,normal
+40785,[plan item] Overview ruler improvements,normal
+101139,"[javadoc] Spurious ""Javadoc: Invalid reference"" error with type names in link",normal
+64085,[ManagedBuild] Sanity:  Getting NPE after creating C or C++ Managed Project,blocker
+139943,[Memory View] Control block size per monitor,enhancement
+84084,"need command-line interface to ""Replace With Another Version""",enhancement
+98096,[find/replace] find next cannot find '?' if 'whole word' checked,minor
+101278,[Properties] Want to overide the top level page,enhancement
+60376,AssertionFailedException,normal
+285121,[Viewers] Native looking checkboxes in a viewer,enhancement
+13732,'Refresh All from Local' option.,enhancement
+100826,[browser] Can't cut/paste with keyboard in browser's location control,minor
+156590,[breakpoints] Breakpoints remain after removal of linked source.,minor
+1518,Icons needed for actions (1GI5UXW),enhancement
+208602,[Dialogs] Open Type dialog needs accessible labels,normal
+22297,[build] Modify [javac] settings,normal
+85017,"[KeyBindings] preference page: Hang in ""org/eclipse/swt/internal/gtk/OS._gtk_tree_view_column_cell_get_size""",critical
+136,[Progress] need progress monitoring during merge (1GETBX7),normal
+103508,TextLayout should support more than just text,enhancement
+82432,[1.5] VerifyError with Autoboxing,critical
+46882,PST: lookup returns wrong function,normal
+47701,Team preferences pane appears to be in bold,minor
+264206,Cannot click links in console,normal
+116051,[ccp][reorg] invisible focus element on name conflict dialog,minor
+126348,"Keybindings for Display, Inspect, Step Into Selection don't work",normal
+341608,deadlock in I20110329-0800,critical
+173240,[Browser] The action Open with Web Browser doesn't correctly enclose the URL with quotes,normal
+223061,[JUnit] UI becomes unresponsive during several minutes when disabling 'Show Failures Only' button,normal
+320876,[render] Missing 'final' decorator for local variables,normal
+164012,"[content assist] Add a preferences to add ""this."" when completing field",enhancement
+206743,Tree with columns has drawing errors when resizing to a minimum,normal
+4887,Possible Bug when syncronizing on child of un-released folder (1GKKOY4),normal
+97670,[preferences] Java Hovers page missing mnemonics,trivial
+134055,[64] java VM crash on content assist,major
+111589,[ErrorHandling] rcp: error-messages non-expressive,normal
+67728,${build_type} variable needs updating to new build story,normal
+24012,UNDO and auto add imports,enhancement
+30262,Offer Search for Occurrences in Views as well [search],enhancement
+26460,Comb/CCombo don't allow type ahead,normal
+298115,[Memory Browser] refactoring request,major
+61812,"File Search needs ""Whole Word""",normal
+44756,text hovers gone on a single editor,normal
+72207,Add color constant for disabled label text color,enhancement
+267613,Eclipse crashes if DISPLAY is not set,normal
+31157,Log ENTRY should print the build number.,normal
+74693,Build order in build.xml for jars doesn't match order in build.properties,normal
+35924,remove unnecessary signal blocking,normal
+66052,"Mnemonic traversal should go by parent, not entire Shell",normal
+344636,[breakpoints] Breakpoints disappear when restarting the inferior,normal
+41432,Editor close behaviour on project delete/close,normal
+215349,[Graphics] [WorkbenchLauncher] Splash screen shows incorrect year in the copyright notice,normal
+297470,[Wizards] Settings bounds for a nested Wizard,normal
+265940,Cannot input T-Chinese chars in Java Editor,normal
+12085,"Please add a menu-item ""Workbench->Delete all classfiles""",enhancement
+152803,Creating Jar,normal
+278004,[DataBinding]  ContainerCheckedTreeViewer not handled by ViewersObservables.observeCheckedElements,normal
+204538,[WorkbenchParts] API required to determine PageBookView from an enclosed Page,enhancement
+40141,Null pointer exception running UI Test suites,critical
+258823,AbstractIndexerTask.runTask() breaks standalone indexer,blocker
+162005,[QuickAccess] Persist previous picks,normal
+20306,Fails to popup the help screen by pressing F1,normal
+28526,nested src folders - deleting the outermost one deletes all nested,major
+23598,incorrect handling of auto-string-closing in linked positions,normal
+262795,[Min/Max] Unmaximize editor area unreliable when editor area is split,normal
+83346,NullPointerException during compile,critical
+76445,Managed Make C++ Project does not compile/build,normal
+114816,[EFS] Change SyncFileWriter to use EFS instead of java.io.File,normal
+297225,[formatter] Indentation may be still wrong in certain circumstances after formatting,normal
+287289,NPE while quitting Eclipse before all compare editors get initialized,normal
+293600,Failure in StatusDialogManagerTest.testBug288765,normal
+5647,Search results differ when using outliner context menu vs. dialog,normal
+325308,Author display inconsistencies in compare editor,minor
+231063,Update site reference triggers protocol violation,normal
+99739,[CommonNavigator] Link with editor should link with initially brought up,normal
+141612,IWorkbenchWidget has incorrect copyright info,normal
+9962,Templates in JavaDoc in 20020214 insert inappropriate spaces,normal
+39070,[navigation] Ability to click the editor's error/warning indicator,enhancement
+36997,DCR: Accessibility on GTK,normal
+60390,NoClassDefFoundError invoking content assist in ant editor,normal
+94067,Auto format behaviour is inconsistently in class comment blocks,normal
+68132,[Readme] How to build with buildfiles that contain BOM,normal
+223228,[hovering] Quick fix problem hover: remove border around scrollable area,normal
+244610,"[CommonNavigator] tests - test file not correctly closed, causes exception in tearDown",normal
+15104,Unix login error causes unreleated CVS VCM problems,normal
+85125,"When bracket is placed after MethodDeclarator, build fails.",normal
+278132,icons with overlays become faded in appearance,normal
+319738,Restore Defaults does not work in Environment tab in Preferences,normal
+123514,[1.5] [assist]ArrayStoreException in content assist for malformed field,normal
+95000,CCE trying to use quickfix in an annotation type,normal
+13008,"Move a Java file, errors remain",normal
+208127,breakpoint import does not work,normal
+331281,Misleading error displayed,normal
+193321,[Sync View] Migrate Compare with Each Other to the Synchronize view,normal
+177662,[content assist] Allow wildcard filtering of completion proposals,enhancement
+75098,NPE in RemoteFolderTreeBuilder.fetchNewDirectories,normal
+276636,"[IDE] Move ""Software Updates"" to ""Edit""",normal
+272971,Review Patch pane in the Apply Patch wizard requires double-click,normal
+283171,[implementation] AnnotationModel doesn't notify listeners when an attachment is removed,normal
+263299,[target definition] Support for appending .ini VM args to launch,normal
+325956,store run configurations depending on project folder - without the name in the .launch file,normal
+10463,ClassCastException in Launch Configurations,normal
+166219,[launching] Run Last Launched fails due to Launch Config Tree filter,normal
+99994,[Tags] Compare results do not show date tag as entered,normal
+43851,[KeyBindings] doc: Advise teams to not bind keys directly,minor
+182277,[Plug-in Dependencies View] System packages not distinguished from framework packages,normal
+252437,Browser widget z-order issue,major
+35512,[Importing] NPE when try to import external features,normal
+133370,Manifest's Bundle-Activator validation cleanup,normal
+152728,eclipse3.1 has a bug about compile,blocker
+63170,Auto-insert NLS tag is malformed,normal
+275013,[target] ease restrictions on software site locations,enhancement
+2893,Properties view: Inconsistent use of triangle menu (1GKDJ9E),normal
+185350,[1.6][compiler] Code generation seems to be much slower than in 1.5 mode,normal
+6188,Focus/selection problems when using external editor,normal
+98422,org.eclipse.pde does not need dependency on intro,normal
+127675,Editor only shows matches from last search,major
+56872,Class with main method cannot be run via the Run menu,normal
+53753,Eclipse crashed when Stress Testing Suite was run,normal
+59519,Support newly added launch config variables,normal
+221410,eclipse suspend makes gdb exit when remote debugging over ssh,major
+102379,Unable to launch RCP app - unresolved SWT fragment,blocker
+54446,Support filter strings for compare,enhancement
+181998,[efs] ResourcesPlugin performs too many operations in its start() method,major
+154921,[Multi FVB] empty groups are left in tool bar,normal
+321860,[EditorMgmt] IWorkbenchPage's javadoc needs to be updated with regards to its claim about editors and editor inputs,normal
+59631,[Content Assist] Macros do not appear in the completion list when no prefix is provided,normal
+25835,[breakpoints] Instruction pointer hides breakpoint icon in ruler,minor
+70157,Add symbols as a seperate syntax highlight option,enhancement
+14925,Return statements do not stop evaluation,normal
+56384,[EditorMgmt] (leak) EditorWorkbooks leaked,normal
+66730,[Refactoring] Renaming a class does not change .cpp file.,major
+21983,MenuItem's without sub-menus behave strangely,minor
+155168,[content assist] Content assist locks UI and the whole computer,critical
+46848,Circumflex accent for characters does not work,normal
+174107,VM Args not getting copied from .product to ini file in Mac build,major
+308035,"[Help] Help Contents gets ""Connection Refused"" when on VPN or behind authenticated proxy",normal
+121357,[Help] The changed Dialog Font font is not applied to the dialog of Help Advanced Settings.,normal
+25273,[Coolbar] Cleanup code,normal
+61010,NPE while opening plugin.xml file,normal
+149029,[spell checking] Dictionary File Parser,normal
+286371,Save changed password to secure storage immediately,normal
+35887,[UI Guidelines] Guidelines refer to obsolete menu items,normal
+134879,[DataBinding] Provide toString implementations for implementations of IDiff,enhancement
+300863,Change buttons order in PathVariableDialog,trivial
+59791,[Scanner Config] Managed Build C projects cannot find declarations in stdio.h,normal
+326622,make: execvp: echo: Permission denied,normal
+31363,RFE: Ability to hide JAR hierarchies in Package Explorer [package explorer] [render] [build path],enhancement
+117086,FTPClient leaves stream open,normal
+43970,[History View] Configure history view columns,enhancement
+319166,"""Window->Preferences->C/C++->Editor->Save Actions"" are not working",minor
+10999,[Perspectives] Feature Request: ability to change perspective icon,enhancement
+92775,[find/replace] Clicking Replace/Find button goes beyond scope,normal
+192018,"[C99 Parser] #include ""stdio.h"" fails to find system include",normal
+235301,Paths and Symbols property page has no vertical scrollbar,normal
+223951,hot code replace causes deadlock,major
+42606,Debugger breakpoints on caught FileNotFoundException during class loading,normal
+48031,Provide automatic build dependency resolution,enhancement
+12217,Internal error when synchronizing with cvs repository,major
+75381,Runtime workbench takes 4 minutes to start with many plugins,normal
+17829,Completing the install appears on each startup.,normal
+23963,"When I use Team -> Synchronize with repository, eclipse show some files as modified, but they are not",major
+10205,messages.properties should be internal,normal
+32911,Missing a way to  undo a resolution,normal
+92961,Table gets focus but shell is not active.,normal
+338968,"Memory windows do not work across debug sessions, gdb 7.2",normal
+93686,Provide select all / deselect all buttons for BreakpointWorkingSetPage,trivial
+94987,[api][preferences] Support new default line separator API.,enhancement
+10624,"GUI Blooper: ""Open on..."" in debugger s/b ""Open"", ""Drop To Frame""",trivial
+85159,Breakpoint location tests failed in nightly build,normal
+111570,Threads should be refreshed in a lazy fashion.,enhancement
+310612,[Markers] Quick fix wizard should not let the user finish if nothing has been selected,minor
+84385,disabling breakpoint with ruler action does update check box in breakpoints view,normal
+234312,[breadcrumb] drop down stays when opening context menu on any breadcrumb item,normal
+335098,[tests] JUnit tests don't always use the DSF executor when they should,normal
+78678,Indexer stops reindexing file after repeated saves,normal
+50517,Can Error Log view be moved from PDE,normal
+57577,Update for Decorations taking too long in UI Thread,normal
+200601,display selected console numbering of debug sessions stops at 9,normal
+230398,[CellEditors] Enhance UI of combo box cell editors,enhancement
+153180,[OpenModes] select on hover does not work if a tooltip is shown before the hover wait time,normal
+75081,[encoding] change deltas test failing,normal
+7176,Code completion suggests variable name,enhancement
+217267,[content assist] use colored labels in proposal popup,enhancement
+167698,[History View] Contents are not cached before editor is opened,normal
+265668,Text#setMessage(..) should force redraw,minor
+227724,Allow to reuse bundles outside of OSGi,enhancement
+157654,Structure Compare always says 'No Structural Differences',major
+34775,"Two ""Build All"" buttons",normal
+69910,Clicking on a column header in problems view removes all entries,normal
+30801,Hierarchy View - would like to get type Javadoc hover [type hierarchy],enhancement
+64756,TableEditor does not refresh arbitrary controls when scrolling horizontically,normal
+330763,Support ResolverHook during build,enhancement
+97275,method reference should not contain type variable anymore,normal
+95806,3.1M7: cannot parse plugin.xml during JUnit tests after build,normal
+44992,Eclipse cannot start after extracting eclipse3.0M4 build on 2.1.1,critical
+76371,Cutting and pasting slow in I20041013,normal
+328009,"Tool bar contributions to standalone view with no title ,are misaligned",normal
+4269,Simplifying debugger perspective (1GKRAWI),normal
+255093,"In C++ refactoring, selection should be updated like Java refactorings do",minor
+154208,add margins in tools settings block,trivial
+325962,[projection] Code folding behaves in unexpected ways in presence of syntax errors,normal
+99677,[render] render synthetic bridge methods with icon adornment or textual decoration,enhancement
+199803,"Really slow editor, Java (Others?)",normal
+17607,Build unzips with wrong permissions,major
+151047,[extract superclass] Extract Supertype duplicates code,normal
+59253,MakefileEditor File > Save As fails to save CDT files in different project,normal
+85412,changing link foreground does not repaint,normal
+104122,[Wizards] Cannot import mulitple projects as Java projects,enhancement
+306914,Possible deadlock when big chunk of data is written by the process,major
+202632,Inconsistent shared library version number inside swt-3.3M5-motif-hpux-PA_RISC.zip,normal
+12748,Snippet editor in debug perspective,normal
+98514,[K&R C] displays invalid errors on correct K&R C syntax,normal
+71005,deleting extension point does not delete exsd file,normal
+52084,[Workbench] view toolbars should use regular background color,normal
+117322,IFileSystem#getStore() should throw CoreException,normal
+36871,eclipse creates /tmp/platform,normal
+84969,Save Failed :null occurs when trying to save a jsp page with tlds included,major
+259464,NPE in WorkbenchPage for RCP app with no cool bar,normal
+14696,Type in search results,normal
+178062,Unwanted warnings in build.properties,normal
+51992,[Views] NPE in ContentOutline.showPageRec,major
+172763,SWT Browser In JFrame - Not Visable Until Resize.,normal
+10665,"provide ""go to declaration""",enhancement
+41154,[Dialogs] Open Resource: Resource list lags,normal
+26899,redefine compatible cvs repositories,enhancement
+61961,dangerous practice of catching Throwable,normal
+108453,"[quick fix] @SuppressWarnings(""nls"") on static initializer causes error",major
+249755,"OperationCanceledException is not handled by org.eclipse.compare.structuremergeviewer.StructureCreator.createStructure(Object, IProgressMonitor)",normal
+155760,[Help] Help UI is not working using JNLP in RCP,normal
+20508,TVT2: hardcoded string in NewTestSuiteCreationWizardPage.java,normal
+6835,characters צהו and £ doesn't work in Java editor on Swedish keyboard,normal
+89956,"[Intro] Mac, AMD64 - Welcome page shows wrong icons",blocker
+129772,Toolbar incorrectly bleeds through to editor window,normal
+53414,Can select two default JREs,normal
+56351,"[Activities] ""new project"" filtering with activities",normal
+19565,Eclipse hung on Win98 - too many editors open? [general issue],normal
+45096,[plan item] Generalize content assist to be available on elements other than the ITextViewer,normal
+17086,Emacs: problems with mark,major
+65277,Preference dialog should disable OK when okPressed,normal
+10149,StyledText - option to change selection bg color,enhancement
+183023,[JUnit] Subclass of testclass is not recoginzed as test class if all test methods are inherited only,normal
+198927,Provide error reporting around invalid Bundle-ManifestVersion's,major
+316643,Cannot enter Report Conversion Patterns on API Use Report External Tool Launch,normal
+25702,[External Tools] Restore defaults does not work,normal
+120875,Javadoc extraction might includes optional annotation type member information for an annotation type,normal
+124141,[Progress] ProgressView does not populate until first update occurs,major
+292688,[dis] DSF Disassembly: Reduce maximum width of FunctionOffset Ruler Column,minor
+57312,[runtime] prefs: should rename or delete legacy prefs file?,normal
+69209,ConcurrentModificationException closing eclipse after commit of build.xml,normal
+39887,Resource exception while indexing,normal
+35402,Install manager refuses further installs if current configuration has problems,major
+70973,doc.user plugins missing from drops,blocker
+40020,Exceptions in console,normal
+152188,[IDE] Add project identifier to window title when editing file,enhancement
+200452,Europa PDE won't start plugins -- java.lang.ClassNotFoundException: org.eclipse.core.runtime.adaptor.EclipseStarter,normal
+91002,NumberFormatException in MIPreferencePage#storeValues(),normal
+277219,[LinkedResources] File creation wizard allows creation of linked file without link location,normal
+70350,Sort Open Type dialog such that jars go to the bottom,enhancement
+195056,[refactoring scripts] Scriptable Refactoring XML is not human understandable,enhancement
+162112,Hitting help buttton multiple times causes dialog to resize,normal
+7796,Inconsistent use of Shortcut key letters in several menus,normal
+20366,[F3] Unwanted switch to first edit window when opening 2nd.,normal
+110705,Add filtered text to CVS repositories view.,normal
+116931,New TeamHook validation methods,normal
+337119,Unpredictable behavior of posted key events on Linux,normal
+210422,[compiler] Need to have local bindings created in error cases,normal
+45108,[Contributions] SubContributionManger.find(String) throws exception,major
+75161,eclipse debugger hangs on Mdk 10.1 CE,normal
+78425,[Bugs] Blank window shown when bug system first installed,normal
+37719,[EditorMgmt] [ViewMgmt] Unify editors and views,enhancement
+106262,Javadoc: preformatted regions are indented with each auto-format,normal
+159138,[projection] Need a way to append to a folded region without first expanding,enhancement
+36580,Bad Line Ending handling on Linux & Solaris,minor
+55805,Error overlay does not disappear from features on review page.,normal
+130199,Package navigation in ManifestEditor,normal
+89390,Update Manager help refers to Install Perspective,trivial
+95164,[extract local] fails in switch,normal
+43086,NPE in PatternLocator.matchesTypeReference,major
+65411,Thread deadlock (?) after changing the class path.,normal
+63148,[Scanner Config] Docs improvements,normal
+293583,non-externalized string warning in P2Utils,normal
+344023,Need a way to override Find action of Variables view and its derived classes.,enhancement
+263539,[cocoa] display loop on the 'non-main' thread freezes up.,normal
+211928,ExpressionDropAdapter makes implementation to IWatchExpressionFactoryAdapterExtension mandatory,normal
+59495,Would like a way to plug customized dispay for .class files,enhancement
+117410,MESSAGE java.lang.NullPointerException encountered while running MyEclipse Spring Project Builder,normal
+152027,Adding partial source folder to project mismanages package,normal
+192624,Remove tag feature in the CVS client,enhancement
+41602,missing @exception in javadoc of IPackageFragment.getNonJavaResources,trivial
+3088,[runtime] <export> visibility filters ignored in development mode (1GHFHV7),normal
+168072,"[breakpoints] cut text with breakpoint, undo - breakpoint does not re-appear",normal
+24720,ReferenceTypeImpl performance issue,enhancement
+80803,Project-specific compiler preferences should be committable,normal
+341231,[breadcrumb][api] Make breadcrumb APIs as public APIs,enhancement
+110925,[formatter] annotation formatting bug,normal
+167495,[Webapp] 404 page not found error in toc view,normal
+66170,Different implementation of method override - ctrl+space vs Override/Implement method dialog [code manipulation],normal
+51864,Compiler incorrectly reports exception on overriding method,normal
+274532,Cannot scroll to bottom of virtual table,normal
+138126,Exception creating new launch configuration,normal
+105851,Allow per instance configuration of the framework,enhancement
+18104,Mnemonic collision on Edit menu,normal
+11310,Move dialog: Update references unnecessarily disabled,normal
+244445,"cannot disable ""automatically indent : new lines and braces""",enhancement
+90466,Class loading taking in around 10ms per class,normal
+53651,[Workbench] copy preference for show/hide of text on perspective bar to the bar,normal
+128963,[compiler] null reference analysis: incorrect analysis,normal
+135071,[Trim] Swtich to 'ragged' trim,normal
+248431,"Restore from Local History... does nothing, logs StringIndexOutOfBoundsException",normal
+122743,ToggleBreakpointAction must implement IUpdate,normal
+22458,Refactoring a package does not move the package's directory,major
+283575,[1.5][compiler] Compiler Error in type inference.,normal
+70390,bad or incorrect error message,normal
+68696,eclipse 3.0 relese version crashed after splash screen,critical
+143849,[JUnit] Run/Debug/Profile As > JUnit shortcut doesn't work in the navigator view,major
+178697,[History] History-keeping folder deletion moves symlinks into local history zone,normal
+217318,Importing an Ant file with references to environment variables in a path element causes an error,normal
+288833,Breakpoint export wizard should be able to make better initial selections,enhancement
+55899,NPE & Assertion Failure in Call Hierarchy,normal
+109320,[Viewers] clicking Ignore whitespace toolitem throws part focus,normal
+26310,[Workbench] Compiler warnings in EditorManager,normal
+72422,[Sync View] Sync view population job should mention view,minor
+31146,puzzling message output level issues,normal
+84740,crash on windows xp korean,normal
+23985,"XMLMemento is great, but needs a few more APIs",enhancement
+79119,Should Provide an ExternalFiles Folder for External Matches,normal
+97583,Managed Views not closed,normal
+294469,Crash collapsing tree item in sync view,normal
+7171,[Presentations] Views should have half height title bars,enhancement
+78149,[model] IType.resolveType(String typeName) fails,normal
+272334,[quick assist] 'Replace conditional with if-else' should also work on VariableDeclarationFragment,enhancement
+45734,Need some speed improvements when closing projects.,normal
+70198,Semantic checks on plugin.xml,normal
+281951,[rename] Rename method with name of constructor results in unexpected behavior,major
+255201,"[WorkingSet UI] Missing ""Merge All"" in ""Import Project Set""",normal
+132830,new variables view: please select the row when clicked on any column,normal
+10389,Editing non-Java files causes a recompile,minor
+339224,"[content assist] ',' does not jump to the next argument if linked position has no proposal",enhancement
+97823,Unable to delete the Project,normal
+298766,[StyledText] some keys do not work when mouse button 1 pressed,normal
+155931,"""Invalid character constant"" when exporting plugin or product",major
+208611,Space in install path causes IllegalArgumentException during export or update site build,normal
+14501,[Preferences] build order pref page should have icons,enhancement
+131123,[call hierarchy] Change to search scope should update view,enhancement
+73039,PluginDescriptor.find returns unnecessary /,normal
+84589,"allow event listeners to specify ""add to end of list""",enhancement
+60664,Deadlock terminating a session,normal
+240503,Linux startup is broken since windows workspace copy,blocker
+70195,Enhance menu's font setting,enhancement
+29618,Strange error in CVSLightweightDecorator,normal
+41778,Move directly to first change in next file,enhancement
+4825,Toolbar button roll-over highlight does not match OS apps (1GJUQZQ),normal
+6853,extension-properties not shown under some circumstances,normal
+111316,IndexOutOfBoundsException replacing text,normal
+266022,Mac launching bundle should be split into two,normal
+29991,Change to file did not show up in sync,normal
+70501,[classpath] Capability of linking external resources to lower level of a project structure,enhancement
+326867,debug view messed up on terminate,normal
+24853,Possible to add a detail formatter for the same type more than once,normal
+86547,[Bindings] problems with bindings associated with functions that have default arguments,normal
+341632,[Accessibility] Traditional memory rendering is not accessible by keyboard,normal
+293747,[Help][Print]Add maximum printed topics and maximum connections to the preference to optimize the quick print operation,normal
+64112,[Workbench] NullPointerException in PerspectiveHelper.partChangeAffectsZoom (line 1002),normal
+170069,Cleanup profile customization provides no OK button,normal
+277556,[preferences] Syntax Coloring Preview Window is showing colors to incorrect char set for classes element,normal
+206350,Using the default locale on the Build Notes page,trivial
+86409,Bad default combo-box text in 'Edit Library' JRE dialog,normal
+334774,"In the package explorer when ""Link with Editor"" is active closing a file in the editor jumps to the just closed file",minor
+101466,[MBS]: IDE freezes when drag Mgd project properites page,critical
+300508,Fix dead code compile errors,normal
+25558,[Editor Mgmt] Dropdown menus on forward/back nav buttons,major
+167408,"""Build failed"" is too strong of a message for a build where map files have not changed",normal
+284113,"Enhance working with Plug-ins selection in ""Run Configurations...""",enhancement
+34331,Double click at end of block does not highlight block,normal
+90853,Dynamic option to ignore whitespaces,enhancement
+297986,Launch config should abstract the JRE,normal
+99399,[1.5][assist] Code assist propose final classes in methods type parameter extends clause,normal
+146394,Access to a inherited member from a internal class on a non-internal class should not be warned,normal
+79866,[search] Search match should persist match rule for filtering at a later stage,normal
+76343,"Formatter, Blank Line Before Closing Brace in Class Definition",enhancement
+109596,[Decorators] could not clear the cached images from the DecorationScheduler,enhancement
+178712,[Perspectives] Minimized stacks in 'perspectiveExtensions' use the old behavior,normal
+31297,filters for elements with no errors/warnings [package explorer] [filters],enhancement
+19122,ANT executes in wrong directory,major
+49439,[EditorMgmt] need a show/hide editor button near pin editor,enhancement
+102506,double listed directory names in source for linked sources,normal
+223315,[breakpoints] Inner class defined in a method can produce multiple breakpoints in the same line,normal
+274020,Code assist fails to deliver proposals,normal
+103273,[EditorMgmt] icon cannot be specified per content-types,enhancement
+57250,Deleting matches doesn't work after last match of group was deleted,minor
+242760,[Browser] Delete key is eaten in Internal Web Browser,major
+152382,Eclipse 3.2 cpu loop,normal
+214923,Inform user when extension point schema unavailable,normal
+228840,Invalid Plug-in ID should be error severity instead of warning,normal
+60470,Editor does not react any more after refactoring,normal
+264908,[target] Allow cancellation of the edit target wizard while resolving target,normal
+79188,[Viewers] (Table)Viewer should allow update of a known (Table)Item,enhancement
+236140,[refactoring] Add a refactoring for 'Hide Delegate',enhancement
+4129,DCR: Text Search results should show platform icon (1GIT98J),enhancement
+304528,compare against 3.5.2,normal
+287596,http://eclipse.org/swt/macgen.php needs to be updated,normal
+23871,Core dump running test suites,normal
+102130,Compiler should not warn about non-externalized string in annotation,normal
+9428,Gradients start grayed,normal
+172976,Console view showing wrong label,major
+4321,[nls tooling] outline for .properties files,enhancement
+190508,[infer type arguments] Infer Generics Refactoring Broken,major
+8372,CVS hangs/crashes during checkout of big files over intranet (reproducable),critical
+820,Welcome: Workbench User Guide does not show anything by default (1GEUWHF),normal
+81590,[1.5][compiler] Iteration over nested arrays is broken,normal
+96409,Compliance level '1.4' is incompatible with source level '1.5',normal
+10694,[templates] need more flexible type mechanism,normal
+100885,Keyboard paste (Cmd-V) starts going to wrong tab/view,normal
+112641,cannot open binary file from CVS,normal
+88550,[Wizards] Wizard and Configuration Fonts,normal
+338649,[perfs] Regression on FullSourceWorkspaceModelTests#testInitJDTPlugin,normal
+127904,SWTException: Widget is disposed creating new extension,major
+204675,'Convert Line Delimeters To' option doesn't mark the latest choice,normal
+179662,Implement configuration-based scanner discovery in the make.core,enhancement
+81374,[rename] RippleMethodFinder2 should accept a RefactoringStatus and flag binary methods in ripple,normal
+302863,[WorkbenchParts] EditorActionBars doesn't get propertly activated after exception during editor initialization,normal
+96627,USABILITY: Renaming a folder should move make targets to new folder,normal
+175151,"move OpenTypeDialog/Action, AllTypesCache to use the IIndex API",normal
+330256,"Make ""Organize Manifest"" wizard run with Orbit projects",enhancement
+264610,[Forms] Screen reader won't read links in a FormText widget.,normal
+26036,refactor: extract local variable: inserts new variable at wrong block,normal
+114979,"""ftp"" feature for ""ant"" doesn't work",normal
+108519,ClassCastException,normal
+269610,Drop-Indicator-Rectangle for docked Items incorrect,minor
+124333,Target platform stale - didn't switch to the new build,normal
+183685,[preferences] UI for Wrap binary expression before operator,normal
+108915,Ant build terminates while signing jar using jarsigner,major
+212885,[Markers] Markers view: Configure Contents... dialog should not use 'Filters',normal
+35346,Eclipse crash opening preferences of third party plugin,normal
+30259,launching always asks if I want to delete the workspace,normal
+25847,Support for Java 1.4 chained exceptions,enhancement
+292901,"Confusing ""Target"" group for children filters",normal
+38855,regression - Table.getImageBounds returns incorrect value,critical
+26626,hot plugin plugin?,enhancement
+24254,Type Hierarchy doesn't show all members,minor
+49056,[FAQ 2.1.3] CVS 1.12.x server compatibility,normal
+101048,Broken links in root javadoc files,normal
+17357,[Outline] Outline View text cut off,normal
+188887,[PropertiesDialog] File size in resource properties info too many digits,enhancement
+74710,[Commit Sets] Problems displaying folders,normal
+88666,"[content type] schema should assign ""java"" type to the describer attribute",normal
+309842,Consider creating a product for pde build,enhancement
+28504,"Pesimistic VC: Content Assist dissabled, Quick Fix still available",normal
+323278,"Indexer reports ""return has value, in function returning void"" when void func returns the return value of void func.",normal
+90085,Auto Completion mal-function in M5a and M6,enhancement
+17998,[ExternalTools] missing help context ids,normal
+32361,"""Link Java Browsing view to active Editor"" not working in M5",normal
+295401,Renaming Java project with a breakpoint throws an exception,major
+233159,P2Installer doesn't work on a Mac,critical
+167640,Opening plugin.xml throws error in fast partitioner,normal
+127768,[Model Sync] Clean Timestamps doesn't always work,normal
+289883,New TEAM feature to collect commit comments incrementally,enhancement
+157464,[consistency] Arrow-Buttons on Mac dont support MouseListeners,normal
+283169,[examples] Add pre-processor generated source files to a .cvsignore file.,normal
+16474,FTP: Contents fetched when right-clicking in site explorer,normal
+36130,keyboard shortcut for line commenting,minor
+83195,Mnemonic collision on AntJRETab,normal
+182313,Compare viewer context menu actions are missing mnemonics,trivial
+160929,[Help] Javascript error in indexList.jsp,normal
+217671,[Contributions] WorkbenchMenuService leaks editor after context menu opened,critical
+82330,IAE exception in Inline Method [refactoring],normal
+79925,[consistency] Button MenuDetect preceeds MouseDown,normal
+19719,Hover Text Stops Working After Turning Off And Then On Again.,normal
+87627,[1.5][search] references to type variable yield non-existent elements in search view,normal
+209326,[formatter] Save Actions does not remove trailing blanks inserted by Formatter,normal
+205038,ResourceModelContentProvider#dispose() can throw NPE,normal
+306822,We need context for IncrementalProjectBuilder#getRule(),normal
+22965,[Import/Export] import/export enhancement,enhancement
+154023,Can't get a Dialog truely on TOP,normal
+257915,Autocomplete doesn't work inside Exception handlers created by #define,normal
+274271,SHEET Javadoc issues,normal
+279522,[Test] Seperate Link checker tests into generated/non generated,enhancement
+115303,Add support for cyclic dependencies in projects,enhancement
+29069,'open external javadoc' appears incorrectly in key binding list,trivial
+191121,[C99 parser] fix performance issues,normal
+257494,Ant task hangs in logging call,normal
+62046,[Progress] % complete not shown in progress view,normal
+178780,[MPE] Improve MultiPageEditorPart.setActiveEditor,enhancement
+290618,[push down] program behavior changes: calls overloaded method,normal
+270548,[formatter] code formatter does not respect spaces for line wrapping indent,normal
+92119,[variables] Debugger: Ability to view a char array/sequence as an arrary of integers.,enhancement
+129703,SWT.VIRTUAL limitations via TableItem [] items,normal
+16775,TableTree.setSelection/showItem fails for deeply nested items,normal
+64537,Internal errror opening in-place browser,major
+12451,Got unhandled debug exception when launching workspace,normal
+304792,[move method] Move a single function between interfaces does not work.,minor
+274690,MenuItem accelerator text not rendered on Cocoa,normal
+204417,NullPointerException in SelectionOnQualifiedAllocationExpression.resolveType,normal
+72400,anonymous inner class's override method sign doesn't appear,normal
+26546,In/correct quick fix for non-static access to static member [quick fix],normal
+44008,[browser] Browser component grabs focus when loaded.,normal
+201548,[Editor] Need partition scanner for assembly content,normal
+101799,Enabling advanced graphics will cause alpha gradient to be applied,normal
+284393,[Forms] Allow FormText to be transparent,major
+98379,"[1.5][compiler] Type Inference on static method allowed by eclipse, not by javac",normal
+208589,Key shortcuts F3 and F4 should work in Variables view to open type / hierarchy,enhancement
+79792,Constructor reference not found,normal
+242014,[delta] IJavaElementDelta.F_CONTENT not set in Java element delta in case of IResource.touch(...),normal
+9558,junit wizard: does not detect all existing classes,normal
+240837,DVT34: broken link in documentation,normal
+6917,OS.EnableWindow should be called when opening modal dialog,normal
+150535,java text editor does not honor system default theme in high contrast,normal
+27261,"""Content Assist"" vs ""Code Assist""",normal
+73997,Code Formatter mishandles <pre> and <blockquote> tags,normal
+29716,Default CodeFormatter problems,normal
+53378,[syntax highlighting] Preview and Apply do not work for syntax highlighting preference page,major
+17132,Advanced dialog on class path config tabs should not be a title area dialog,normal
+4662,DCR: Refactor PrintJob out of Printer (1GFW8OM),normal
+117527,[Eclipse Forms] Switching from product configuration from plug-in to feature looses the content of the other pages from the editor,critical
+37303,Remove X dependency,normal
+117983,[KeyBindings] registry: Can't delete key binding by unsetting commandId,normal
+50851,[reorg] constructor not visible after class move / refactoring,normal
+42826,Flat Table,normal
+92015,[IDE] IDEWorkbenchWindowAdvisor updates the window title too often,normal
+284844,[Layout] The GridLayout is not shown correctly.,normal
+115464,Bring back 'Show In Package Explorer',normal
+339913,[compiler] Misleading error message for annotations inside a method body,normal
+214144,Internal Web browswer location bar closes unexpectedly,normal
+26907,Team file types are not dynamically updated!,normal
+253174,[Contributions] Contributions to the status trim bar are never disposed.,normal
+129853,Wrong window comes to the front when stepping,normal
+123635,run/debug latest fails when filtered,normal
+75734,[Dialogs] IllegalArgumentException in ResourceListSelectionDialog.,minor
+113159,CUEditor won't let me insert just one TAB,normal
+341298,Pass automatically provided options to Java 6 processors,normal
+296677,Build feature shows no error messages,normal
+135154,[Contributions] ObjectContribtution doesnt work with mixed objects in IStructuredSelection,normal
+260394,[Index] The size of an array is not stored in the index,enhancement
+11892,Color Buttons in Java Editor page are very small,normal
+228983,[rename] method rename,normal
+64401,[Workbench] Switching perspectives leaves cheese,normal
+52870,check for unused or unread private members fails,minor
+94813,ecj bootstrap sets compile properties and then ignores them,trivial
+87920,"ExtractMethod refactoring should not use ASTNodeFactory.newType(AST, ITypeBinding, boolean)",normal
+27071,VerifyError should be diagnosed,normal
+262163,[Templates] resolution of  dep. bindings doesn't consider bases,normal
+319828,Help documents will be displayed in mess when there exist complex contents or layout.,normal
+227397,"add new versions of equinox.jetty, orbit bundles to build",normal
+212849,[GTK 64] (Patch) Printer.endJob() should not return until print job is successfully sent,normal
+150486,[ActionSets] Rename Action/Handler,enhancement
+221988,[Viewers] AbstractTreeViewer.insert fails if parent element has no children realized,major
+320275,[1.5][compiler] The hierarchy of the type AbstractSubClass is inconsistent,normal
+224062,[Contributions] BIDI3.4:HCG Mixed menu entries should be RTL-oriented,normal
+21319,[About] plugin about.ini overloaded,major
+286107,[ViewMgmt] [GlobalActions] Closing project ignores Saveables,major
+167347,markerImageProviders extension point should be API,normal
+305937,[Webapp] Breadcrumbs and child links not filtered correctly,normal
+68799,"PlatformURLResourceConnection.getContentHandler() does not handle NPE returned by URLConnection getHeaderField(""content-type"")",critical
+331664,Build only the actual target to run,enhancement
+18682,"[ExternalTools] ""tool's file does not exist""/""could not find one or more classes""",major
+127773,[introduce indirection] wizard page should set width hint for declaring class combo,normal
+153132,[Model] Adapters not requested for IWorkbenchAdapter and IActionFilter,normal
+88282,ClassCastException opening this type,critical
+344384,[SWT_AWT] Display.asyncExec runnables are not run when modal dialog is shown,major
+11057,shortcut for maximize editor,enhancement
+17651,creating and comparing patch wizards have different widget order,enhancement
+183635,[package explorer] Working Set selections are lost when Package Explorer is closed,normal
+138336,"System.getProperty(""MY_SYST_VAR"") returns null",normal
+105278,Problems with generics and exceptions from other classes,minor
+66754,Include Paths & Symbols properties page does not resize.,normal
+237236,[compiler][null] extending nonnull analysis to final fields,enhancement
+288026,ArrayIndexOutOfBoundException applying patch,normal
+102839,[templates][5.0] Editor template for printf,enhancement
+274167,[target] Hitting apply button does not update reload button.,trivial
+20373,Bidi - Hebrew text loaded from file not displayed correctly,normal
+89582,[Forms] Title Area doesn't consider size of widgets,normal
+54222,'Hide Local Types' button doesn't hide local types in field declaration,normal
+13949,DBCS: bogus at text compare,critical
+33934,CTabFolder's closeImage invisible in High Contrast mode,normal
+102147,paint bug in disabled button with png image,critical
+6055,rename a read-only package does not issue a warning,normal
+239198,[compiler] NegativeArraySizeException thrown for triple quotes,normal
+168230,[1.5][compiler] Non-generic methods can be called with type arguments,normal
+292467,[breakpoints] Redundant call to updateBreakpointStatus() in BreakpointsMediator.stopTrackingBreakpoints(),normal
+78972,[Dialogs] Search support in the View dialog,enhancement
+280027,[target] Use local repository as a source,normal
+332127,Unclear which file I'm saving if dirty untitled text editors are up during shutdown,normal
+50150,"site.xsl: Category label should be used, not description",normal
+30001,FS Import doesn't keep permissions,normal
+273266,Non-externalized string in org.eclipse.compare.win32/plugin.xml,normal
+312997,[launch] Launch tabs for different launch delegates incorrectly share launch config attributes,normal
+258775,[DataBinding] IObservablesListener should be @noextend instead of @noimplement,normal
+299543,Merging should automatically fill in the common base version,normal
+115575,[JFace] Window documentation referring to nonexistent method,trivial
+139089,[breakpoints] NPE in JavaBreakpoint.fireRemoved () shutting down eclipse with Java Debug session running,normal
+61616,[typing] Tabs in text do not show indent,normal
+86863,"[API] Move ""selected structure"" API to Debug UI",normal
+242300,CVS Commit dialog comment pane does not have a context menu,normal
+10877,NPE launching self-host workspace,normal
+272417,Support for JUnit 4.6,normal
+19798,"When all perspectives are closed, we should exclude the ""- "" in the window title",normal
+39030,mouseDown and mouseDoubleClicked events not firing,normal
+24291,[CVS Core] Compare failed,normal
+28716,[misc] 'Goto Matching Bracket' fails when 'Show Source of Selected Element Only' is selected,minor
+57712,[Markers] (regression) Task and Problems view should have selection provider,enhancement
+30242,Repositories View: no visual indication that a working set is active,enhancement
+80091,"Inclusion and Exclusion Patterns: ""Add..."" and ""Add Multiple..."" are unclear",enhancement
+110286,Views order will be changed after eclipse restart,normal
+25029,[Examples] Unmatched brackets in extension points examples,normal
+34141,Help dialogs and forms should have access keys,normal
+52844,[SSH2] support ssh-agent,enhancement
+336600,[hovering] Caret lost when selecting text in the Javadoc hover and then click into editor,normal
+23206,Move multiple files: Bug with progress monitor [Refactoring],normal
+256798,[services] Services can be called after they are shutdown,normal
+43966,[rulers] QuickDiff Bar should allow text selection like LineNumber Bar,enhancement
+17194,Classpath > Advanced: Cannot append jar to Variable,normal
+195821,Redraw bug when search pane opened from maximized window,normal
+209225,Program.findProgram returns null,normal
+96652,Performance tests failing on Linux-GTK,normal
+91378,Eclipse unexpected exception in OS._gtk_entry_set_text,normal
+178813,[Workbench] -perspective command line argument causes two perspectives to be opened,minor
+301817,[CommonNavigator] [Project Explorer] Redraw problem when deleting a folder hierarchy,normal
+256509,junit bundles in test framework aren't signed,normal
+93709,[Dialogs] IconAndMessageDialog needs a way set the accessible message,enhancement
+272225,Extending selection in tree or table should activate shell,normal
+116504,Does not play nice with minimized Windows Media Player song info,minor
+6830,Enable/Disable breakpoint action icon,normal
+317847,Ant terminates immediately and produces no output,normal
+91032,Choose Base Class: could be more descriptive on why Base Class cannot be added,minor
+98526,3.1: tct 151- translation clarification,trivial
+27006,Internal error when creating patch on non-existing folder,normal
+110801,individual TreeItems cannot only have images in Tree,normal
+229987,too many Secure Storage dialogs shown,normal
+127362,NoSuchMethodError on rendererRenderProc prevents platform startup,blocker
+28074,[Contributions] [startup] eclipse.ui.externaltools loaded on startup,normal
+101878,Open Declaration w/in string literal shows irrelevant class.,normal
+40156,CTabFolder's client area is off by a few pixels when there are no tabs,normal
+208709,cmd-z not working on mac os 10.5 leopard,minor
+38800,Environment var tab should work like Launch variable page,normal
+30983,ACC - I20030205 - Can't switch tabs using keyboard,major
+188511,Update doc referring to startup.jar,major
+28798,Dirty files detection when committing a package to the CVS.,enhancement
+65669,No text copy within Cheat Sheet view,enhancement
+11820,[find/replace] find in scope - java only or not,normal
+268584,update swt custom build scripts to support new publishing task,normal
+16699,Eclipse should not find classes in plugin's bin directory,normal
+29209,Class attributes missing buttons in property sheet,normal
+181616,[StatusHandling] StatusDialog formats a message with no parameters and does not use NLS,major
+181719,Test with comment should be gray,major
+100733,[Import/Export]Import project from an existing workspace should not scan .metadata and should not try to import already existing projects,enhancement
+33365,[JUNIT] Text fails,normal
+97838,Pref Page Java/Compiler/Javadoc - mnemonic,trivial
+83110,Getting 'xxx is not a child of folder yyy' messages from cvs syncronization,normal
+102017,"Syntax coloring: keyword ""static"" looks like field",normal
+77914,MIInferior does not query the target for its running state,normal
+95456,Source lookup path broken for alternate JRE,normal
+9912,Batch compiler doesn't put binaries in the right folder when -d is missing,normal
+31843,"""for - iterate over a collection"" template: incorrect tabs",normal
+250599,Exception in launching plug-ins in Eclipse 3.4,normal
+282633,[product] Not possible to select plugins that are contained in a nested feature,normal
+74340,NPE in IOConsoleViewer,normal
+19013,backgronud color: is it honored?,normal
+93832,"[Preferences] 0502N build, Preference Search Text control displays selection range without focus.",normal
+11899,Launch config name collission,normal
+47393,[GlobalActions] [ViewMgmt] Show view menu has many items,enhancement
+131625,Tree adds useless vertical scrollbar,normal
+74994,[Decorators] DecoratorManager activated on startup of an empty workspace,normal
+320911,Not all redundant superinterface problems reported,normal
+117996,Setting a folder as read only should set all its files to read only too,normal
+220764,[Wizards] WizardDialog.setPageSize() documentation incorrect,normal
+244985,no problem when adding @noimplement restriction,normal
+70112,org.eclipse.help.webapp JSPs fail validation,normal
+75813,[browser] StatusTextEvent not fired when hovering over link on the mac,normal
+260060,[plug-in registry] show different icons for built-in service properties,enhancement
+37481,[hovering] Javadoc to HTML does not recognize special HTML characters,minor
+36238,CVS repo view - multiple icons with same name under Versions,normal
+41184,GTK-BIDI: Support of RTL orientation of based SWT widgets,normal
+320953,No indication of invalid hit count,normal
+25166,[Key Bindings] ctrl+c ctrl+v does not work,major
+9482,GPF in open,major
+52812,Quick Hierachy does not show implementations of interface method,normal
+28946,Expressions pane ceases to display expressions,normal
+173111,StyledText: Enter ends up in content before keyPressed,normal
+64484,Exception occurred while terminating a target,normal
+88464,Auto-update can't update two features at once,major
+226356,[patch] Build against xulrunner,normal
+116748,Custom Combo: drop down menu is hard to use,major
+236674,Specifying an include directory in Toolchain options causes language setting entry to go wrong,normal
+201607,Fragment wizard should use new working set controls,enhancement
+46007,Merge changes not shown in Sync view,critical
+92012,[DetachedView] Redundant activation changes when switching to perspective with detached views,normal
+62449,[projection] collapse glyph flicker on expand/collapse,normal
+106216,Search result markers in folded text don't appear in the overview ruler,normal
+80182,Extension Editor Page of the Plug-in Manifest Editor does not work when changing the target platform,major
+68375,ref-23 out of date,normal
+248070,[Help] Easy to overlook search scope makes result list appear incomplete,enhancement
+240361,Large SWT Trees cannot be scrolled to the bottom TreeItem.,critical
+48964,Would like to scope Javadoc checking to a set of packages,normal
+25744,"Provide ""batch"" source formatting/javadoc generation at the package/project level",enhancement
+53857,[rename] rename refactoring confused by syntax error,normal
+3805,Go to type confusing if binary is selected and libraries are filtered (1GEUL8A),minor
+47206,Search dialog very wide for long method signature,normal
+208393,[Markers] Go to Resource should use Open as a title,normal
+119008,[SSH2 FAQ] extssh asks for password even if already there,normal
+225877,ability to hide certain elements from breadcrumb,enhancement
+221898,Modules VM Node is checking for register service not modules service,normal
+3938,Suggestion for nls tool (1GI3K1B),normal
+56695,M8 Cannot edit a custom Code Formatter profile,normal
+127865,[Preferences] Preference changes not being fired on import,normal
+5979,Shift-* in Packages view crashed Eclipse,normal
+49247,center Dialogs relative to its parent,enhancement
+246079,Indexer hangs on Template code with many Template parameters,normal
+276754,[ViewMgmt] Switching views by Ctrl+PageUp/PageDown must not be caught on the inner tab set,normal
+295113,"[SWT/AWT] SWT_AWT bridge issue with focus lost in JTable cell when switching between RCP Application and any non Eclipse Application (e.g. Microsoft Excel, Web Browser, etc)",normal
+27859,[Features] defaultPerspective not displayed at start up,normal
+83945,[Tags Operations] Moving an existing tag on a local project ignored deleted files,enhancement
+337719,[implementation] AbstractTextEditor does not prompt when out of sync in MultiPageEditorPart,normal
+201295,[DND] Enhance drop-n-drop from view to editor,enhancement
+106421,[Memory View] Initial column size preference should be stored by debug target,enhancement
+21220,Navigation between projects is not possible,blocker
+290453,[Help] Links in About Eclipse SDK don't work on SLES 11,normal
+187372,Inlined rename refactoring should use HOME/END keys better,enhancement
+7495,DCR - Need to know input elements of a hierarchy,normal
+7594,"Menu entry ""Replace with Previous"" shouldn't have a ""...""",normal
+35339,@inheritedoc no consistently rendered,minor
+60323,Debug call to join build blocking forever,major
+243147,[breadcrumb] Should not show Java projects as simple projects,normal
+75400,[1.5] Wrong type mismatch error reported,normal
+154454,Support camelcase navigation on PDE forms,enhancement
+25705,[2.0.3 Candidate] multiple builds possible during project set import,normal
+86787,Add list of ignored directories,enhancement
+162001,The Chinese locales problem.,critical
+51806,"Tables (or rows, or cells) flicker when updating",normal
+45670,[CVS Sync View] Sync view does not update with later changes on a second sync,normal
+145007,"[1.5][javadoc] Generics + Inner Class -> Javadoc ""missing @throws"" warning",minor
+71213,"NPE in ""Add unimplemented methods"" quick fix [quick fix] [code manipulation]",minor
+52181,Red X remains on package declaration,normal
+60596,[EditorMgmt] editor chevron barely visible in dark editor bar,normal
+42147,Java Model Exception,normal
+146722,search/files/replace on selections halts for a long time,normal
+106670,[extract constant] Extract constant doesn't remove original expression occurrence.,minor
+54832,Refactoring: Undo should manage and display non-fatal problems,normal
+21077,[Help] F1 does not work for all pages in the preferences dialog.,normal
+76761,[model] ImportContainer.hasChildren() should not return true,normal
+184419,Button.setSelected(boolean value) doesn't  honour ButtonGroup,critical
+283193,some Table/Tree API work incorrectly when scrolled,normal
+279250,[pull up] 'pull up' to interface generates unused imports in the interface,normal
+21245,different disabled toolbar icons on GTK,normal
+236847,Debug launching of non-buildable project in CDT 4 may fail,normal
+216637,[p2] Provide p2 properties to PDE build during export/builds,normal
+189765,"[Import/Export] TVT33:TCT388: pl: ""import from file system"" panel too wide",major
+10872,swt exception in history view,normal
+200698,[introduce factory] 'method already exists' test is to unprecice,normal
+267991,Internal Error Widget is disposed closing about dialog,normal
+296965,project of selected resource not resolved properly,normal
+72391,[Content Assist] Content assist keeps adding parentheses,minor
+29163,SafeRunnable needs to be accessible in JFace,normal
+36141,Misbehaving property page causes property dialog to fail to open,major
+131740,ANT runtime properties not set per the ANT 'Runtime' Global properties list,normal
+90105,[projection] Folding takes a long time to disable on StyledText.java,major
+112356,[syntax highlighting] Syntax highlight isn't applied to auto-unboxed expressions with a cast,normal
+295825,[formatter] Commentaries are running away after formatting are used,minor
+137384,[Presentations] ClassCastException in org.eclipse.ui.internal.PartStack line 1305,normal
+8816,Disappearing variables,normal
+79412,CCE when selecting stack trace element,normal
+231831,[api] Need customized wizard page rather than JarPackageWizardPage,enhancement
+157170,[AST visitor] Unvisited elements,normal
+108116,[RCP] IDE classes breaking plug-in boundaries for thier Dialog settings,normal
+252388,Check box shows indeterminate state before checked state,normal
+290235,[OLE] Problem with using OLE control and setting the max heap size,normal
+55195,perspective/fastview bar is 1 pixel wide under GTK2.4,normal
+229514,[WorkingSets] New Working Set wizard shouldn't allow OK if nothing in RHS,normal
+218331,[key bindings][content assist] Ctrl (not Command) should toggle insert/overwrite,normal
+161910,[nls tooling] Missing Hover-Warning when NLS link broken due to empty messages file,minor
+232349,[pull up] final method in interface makes uncompilable code (multiple methods pulled),minor
+144749,[Forms] TVT3.2:TCT811: HUN:MANCON - No space for second line,normal
+326485,"Menu item ""Resource Configurations"" is missing for files excluded from build",normal
+124874,[CommonNavigator] Open and Open With should have their own enablement logic,normal
+10136,Selecting a symbol name should be the same as have the caret on it,normal
+95449,[Browser] Reusing existing browser editor does not activate it,normal
+153879,[Wizards] configurable size of cvs commit comment history,enhancement
+139672,[refactoring] Rename package does not update inclusion/exclusion filters,normal
+65640,Selection / Copy issue when extra dialog opened,normal
+242237,Debug View tree overflows view but no (or limited) scroll bar,normal
+11374,gp: Crash in swt-win32-2026.dll,critical
+176632,[extract local] does not always work correcty with statements/blocks that receive parameters.,minor
+51781,Top level tasks causing problems,normal
+43005,SWT-GTK hangs while reading from clipboard (on start-up),minor
+68888,Cannot delete-add Build command in Make Targets,normal
+15620,"""Run Ant"" argument parser broken after 4/9/02",normal
+264941,[inline] Comments above a variable declaration disappear,normal
+247927,123,normal
+271848,Mirror from context to buildRepo,normal
+10252,Class StandardVM doubles fields from super class,normal
+194194,[CModel] scalability of CModelManager.createBindaryFile(),normal
+179275,[search] JavaWorkspaceScope caches all projects and does not refresh,normal
+225644,launch configs dropping bundles,normal
+217817,[breadcrumb] polish next/previous buttons,normal
+315228,Java Will not load,normal
+194487,Fail to run Ant script in the same JRE when installed at a path with space,critical
+84427,Quick fix for annotations does not function [code manipulation],trivial
+22407,Can't set Java project build output folder to different project,enhancement
+294746,[plug-in wizard] Descriptions of templates don't fill FormText correctly,normal
+15494,Eclipse unable to start after update manager activated,critical
+96958,gtk-filechooser is a part of the evil empire!,enhancement
+73081,Inconsistant type cast warning.,normal
+121194,"Problem of binary recognition with Eclipse 3.1, CDT 3.0",normal
+143527,[Sync] Missing support for Logical model when only 1 model file is selected during the synchronization,normal
+145803,[CommonNavigator] Project Explorer View does not allow zo define filters,normal
+22514,[CVS UI] The CVS Structure Compare view deletes without warning,normal
+340876,[preferences][content assist] Request for more flexible configuration of content assist lists,enhancement
+95816,Exception deleting resources,normal
+105018,[osgi] PackageAdmin reports incorrect package wiring,normal
+101252,[Actions] Key binding for Apply patch is missing,normal
+187646,"[Target][Editors] Content page - Cannot Cntrl-A to select all, get rid of ""Remove All""",enhancement
+191605,Empty Team category in Customize Perspective->Shortcuts,normal
+54657,Templates: Entering ${cursor} variable multiple times,normal
+2079,[Progress] Replace with TS resource: Label cut off  (1GE4UVV),normal
+129515,Identation of arrays,enhancement
+127902,Focus gets stuck in Expandbar,normal
+215804,Editor could not be initialized,critical
+93625,Checking consistency of Type History... should be done after type selection dialog is up,normal
+305230,Browser should specify encoding of LocationEvent#location and align implementations,major
+87759,MESSAGE Bundle initial@reference:file:g:/eclipse-SDK-3.0.1-win32/eclipse/plugins/org.eclipse.core.runtime_3.0.1/ [1] was not resolved,normal
+117687,[Contribution] Platform UI logs wrong warnings,normal
+44485,Better support for Jar source path designation,enhancement
+75509,Borders around flat toolbars when using the Industrial theme,normal
+149019,SWT Browser Event Listeners,enhancement
+292648,-fetchTagExclude needed,enhancement
+7145,F4 does not work outside type decl,normal
+308010,[DataBinding] Cannot provide own UpdateValueStrategy for binding in ObservableValueEditingSupport.,normal
+83883,[Dialogs] Layout problems with WXGA resolution,normal
+242498,"Add shortcut to perform file search on current buffer, current buffers",enhancement
+203240,Permission of .cproject file seems not to be considered anywhere on writing data,critical
+160481,Allow to display matches using CNF model,enhancement
+303286,API builder throws error when deleting a project,major
+126234,[browser] files with embedded content causes keybinding loss,normal
+304024,BrowserInformationControl leaks TextLayout,normal
+7422,Missing project references on some imported Java projects,normal
+245554,Cannot find and read bundle.info in a shared install,normal
+60471,"Eclipse stops responding to mouse, NullPointerException on shutdown",normal
+96929,[Graphics] White view menu icon,normal
+339274,[Test] Web Service test failing if CDT installed,normal
+41676,[CommandMgmt] Next/Previous in Search view no longer working,normal
+17319,NPE in text search/replace,major
+176158,Tool tip flickers,normal
+7456,Error message with overloaded methods is confusing,normal
+19795,asdfasdf,enhancement
+304042,Launching from the product editor fails in I20100224-2242,normal
+176855,[heap walking] All Instances and All References key bindings are the same,minor
+3527,Source Annotation Property page: Various bugs (1G4CT78),minor
+114316,Some times not shutting down correctly,normal
+65782,New file not in correct order in package explorer [package explorer],normal
+185308,Eclipse 3.1.2 is not yet Supported on HP-UX Itanium,major
+49853,"Persist size of ""add step filter"" dialog",enhancement
+32740,[Viewers] CheckStateChangedEvent never happens for ICheckStateListener in CheckboxTableViewer,major
+4800,Timings vs. Sun JDK on image loading/creation/drawing (1GIVMG8),normal
+144874,[Forms] FormToolkit uses a hardcoded color to distinguish between themed and classic XP,normal
+2888,[JFace] JFace: label decorators don't get disposed on removal (1GKDA34),normal
+157819,[jobs] Allow jobs to specify RW locks for scheduling,enhancement
+293261,Unable to create runtime classpath entry for unknown type org.eclipse.ant.ui.classpathentry.antHome,normal
+205164,[Contributions] EditorAction cannot be of type pull-down,normal
+67694,TVT3.0:  Truncated widget in CDT preferences page,normal
+232973,[ds] removing IDSComponent moveChild method,normal
+74152,url search result error while using maxHits and scope parameters together,normal
+305096,Fullscreen mode doesn't cover the windows taskbar on Windows 7,normal
+79583,Deffered breakpoints and shared library events.,normal
+6546,Missing mnemonics in Team preferences,normal
+90146,StyleRange's underline style is drawn at base line instead of descender line,normal
+9318,no context menu on views in the 'fast view toolbar',normal
+50141,[content assist] autocompletion not working in static context,normal
+177723,[preferences] Content Assist preference page should link to type filters,enhancement
+103858,[CheatSheets] JUnit test cases for Cheatsheets,enhancement
+232606,[LR parser] content assist not working in base specifier list,normal
+43267,File Updates / Refresh problems with Versioning systems,normal
+217824,Target no longer start after importing binary plug-ins,critical
+153365,DirectoryDialog's setFilterPath() has no effect,normal
+35994,Nested features show %featureName for description in Update Manager,normal
+73686,Features with multiple categories require that all categories be selected in order to install them,normal
+3950,Type Hierarchy View has apparent absolute path in title bar (1GF7XJR),major
+282482,AutoBuildJob *always* throws events even if not active?,critical
+262877,The JavaModel object needs to be handled by the JavaNavigatorLabelProvider,normal
+103842,"""Omit all symbol information"" seems to pass incorrect flag",normal
+223804,registry view filter should support java-like names,enhancement
+8047,Internal error changing CVS project properties,normal
+79695,[EditorMgmt] Clicking the close icon of an open resources should not synch navigator,normal
+21194,Filtered organize imports and code assist [code manipulation] [editor],enhancement
+339022,[reconciling] ASTProviderTest fails and is not in CoreTests suite,normal
+34338,Deleting a new folder does not update dirty state,normal
+186463,[JSR269] publish limitations of java 6 processing,minor
