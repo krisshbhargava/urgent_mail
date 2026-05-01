@@ -1,0 +1,26 @@
+{
+  "failure_impact_type": {
+    "dev": {
+      "accuracy": 0.625,
+      "macro_f1": 0.1538,
+      "weighted_f1": 0.4808
+    },
+    "test": {
+      "accuracy": 0.71,
+      "macro_f1": 0.2076,
+      "weighted_f1": 0.5896
+    }
+  },
+  "action_urgency_type": {
+    "dev": {
+      "accuracy": 0.65,
+      "macro_f1": 0.2626,
+      "weighted_f1": 0.5121
+    },
+    "test": {
+      "accuracy": 0.715,
+      "macro_f1": 0.2779,
+      "weighted_f1": 0.5962
+    }
+  }
+}

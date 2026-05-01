@@ -1,0 +1,28 @@
+{
+  "failure_impact_type": {
+    "best_C": 0.1,
+    "dev": {
+      "accuracy": 0.705,
+      "macro_f1": 0.5561,
+      "weighted_f1": 0.7157
+    },
+    "test": {
+      "accuracy": 0.675,
+      "macro_f1": 0.6341,
+      "weighted_f1": 0.6917
+    }
+  },
+  "action_urgency_type": {
+    "best_C": 10.0,
+    "dev": {
+      "accuracy": 0.775,
+      "macro_f1": 0.7236,
+      "weighted_f1": 0.7704
+    },
+    "test": {
+      "accuracy": 0.785,
+      "macro_f1": 0.701,
+      "weighted_f1": 0.7812
+    }
+  }
+}

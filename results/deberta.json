@@ -1,0 +1,26 @@
+{
+  "failure_impact_type": {
+    "best_dev_epoch": 5,
+    "best_dev_macro_f1": 0.5729,
+    "dev": {
+      "macro_f1": 0.5729
+    },
+    "test": {
+      "accuracy": 0.755,
+      "macro_f1": 0.5987,
+      "weighted_f1": 0.765
+    }
+  },
+  "action_urgency_type": {
+    "best_dev_epoch": 5,
+    "best_dev_macro_f1": 0.7602,
+    "dev": {
+      "macro_f1": 0.7602
+    },
+    "test": {
+      "accuracy": 0.78,
+      "macro_f1": 0.7237,
+      "weighted_f1": 0.7866
+    }
+  }
+}

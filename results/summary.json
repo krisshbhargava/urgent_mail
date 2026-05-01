@@ -1,0 +1,46 @@
+{
+  "failure_impact_type": {
+    "Majority Class": {
+      "accuracy": "71.0%",
+      "macro_f1": "20.8%",
+      "weighted_f1": "59.0%"
+    },
+    "TF-IDF + LR": {
+      "accuracy": "67.5%",
+      "macro_f1": "63.4%",
+      "weighted_f1": "69.2%"
+    },
+    "DeBERTa-v3-base": {
+      "accuracy": "75.5%",
+      "macro_f1": "59.9%",
+      "weighted_f1": "76.5%"
+    },
+    "ModernBERT-base": {
+      "accuracy": "77.5%",
+      "macro_f1": "66.3%",
+      "weighted_f1": "77.9%"
+    }
+  },
+  "action_urgency_type": {
+    "Majority Class": {
+      "accuracy": "71.5%",
+      "macro_f1": "27.8%",
+      "weighted_f1": "59.6%"
+    },
+    "TF-IDF + LR": {
+      "accuracy": "78.5%",
+      "macro_f1": "70.1%",
+      "weighted_f1": "78.1%"
+    },
+    "DeBERTa-v3-base": {
+      "accuracy": "78.0%",
+      "macro_f1": "72.4%",
+      "weighted_f1": "78.7%"
+    },
+    "ModernBERT-base": {
+      "accuracy": "76.0%",
+      "macro_f1": "69.2%",
+      "weighted_f1": "77.0%"
+    }
+  }
+}
